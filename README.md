@@ -8,6 +8,7 @@
     * [Learning Management Systems](#user-content-learning-management-systems)
     * [Notes](#user-content-notes)
     * [Video Hosting](#user-content-video-hosting)
+  * [Next Steps](#user-content-next-steps)
 
 #### Introduction
 
@@ -37,3 +38,11 @@ It's hosted on Github for a reason. Please submit pull requests.
 * Vimeo — http://vimeo.com/
 * Wistia — http://wistia.com/
 * YouTube — http://www.youtube.com/
+
+## Next Steps
+ 
+Star the repo to help ensure it is maintained.
+ 
+[Tweet this repo](https://twitter.com/intent/tweet?related=hkalant&text=Educational tools and resources for educators and virtual teachers&url=https%3A%2F%2Fgithub.com%2Fhkalant%2FEducationalToolsResources&via=hkalant) so that more people discover it and add to it.
+ 
+Add your own tools/resources by issuing a pull request or editing on Prose.
