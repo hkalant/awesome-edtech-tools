@@ -4,6 +4,9 @@
 * [Educational Tools & Resources](#user-content-educational-tools--resources)
   * [Introduction](#user-content-introduction)
   * [The List](#user-content-the-list)
+    * [Learning Management Systems](#user-content-learning-management-systems)
+    * [Video Hosting](#user-content-video-hosting)
+    * [Knowledge Tracking/Wiki](#user-content-knowledge-trackingwiki)
 
 #### Introduction
 
