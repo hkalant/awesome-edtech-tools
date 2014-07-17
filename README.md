@@ -1,7 +1,7 @@
 # Educational Tools & Resources
 **Table of Contents**
 
-* [HN Tools of The Trade, 2014 Edition](#user-content-educational-tools-resources)
+* [Educational Tools & Resources](#user-content-educational-tools--resources)
   * [Introduction](#user-content-introduction)
   * [The List](#user-content-the-list)
 
