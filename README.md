@@ -4,16 +4,20 @@
 * [Educational Tools & Resources](#user-content-educational-tools--resources)
   * [Introduction](#user-content-introduction)
   * [The List](#user-content-the-list)
+    * [Chart Tools](#user-content-chart-tools)
     * [Cloud Storage](#user-content-cloud-storage) 
     * [Coding/Programming Schools](#user-content-codingprogramming-schools)
     * [Community Tools](#user-content-community-tools)
+    * [Content Curation](#user-content-content-curation)
     * [Forms/Surveys](#user-content-formssurveys)
     * [Group Communication](#user-content-group-communication)
+    * [Infographics Tools](#user-content-infographics-tools)
     * [Knowledge Tracking/Wiki](#user-content-knowledge-trackingwiki)
     * [Learning Management Systems](#user-content-learning-management-systems)
     * [Massice Open Online Courses](#user-content-massive-open-online-courses)
     * [Notes](#user-content-notes)
     * [Office Tools](#user-content-office-tools)
+    * [Photo Resources](#user-content-photo-resources)
     * [Presentation Tools](#user-content-presentation-tools)
     * [Publishing Platforms](#user-content-publishing-platforms)
     * [Remote Collaboration](#user-content-remote-collaboration)
@@ -26,6 +30,10 @@
 It's hosted on Github for a reason. Please [submit pull requests](https://github.com/hkalant/EducationalToolsResources/pulls).
 
 ## The List
+
+#### Chart Tools
+* Google Charts — https://developers.google.com/chart/
+* Lucid Chart — http://www.lucidchart.com/
 
 #### Cloud Storage
 * Box — http://box.net/
@@ -46,10 +54,17 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * Disqus — http://www.disqus.com/
 * Muut — http://muut.com/
 
+#### Content Curation
+* eduClipper — http://educlipper.net/
+* Pinterest — http://www.pinterest.com/
+* TED Education — http://ed.ted.com
+
 #### Forms/Surveys
-* Wufoo — http://www.wufoo.com/
 * Google Forms — http://www.google.com/google-d-s/createforms.html
-* Typeform — https://www.typeform.com
+* LimeSurvey — http://www.limesurvey.org
+* SurveyMonkey — http://www.surveymonkey.com/
+* Typeform — http://www.typeform.com
+* Wufoo — http://www.wufoo.com/
 
 #### Group Communication
 * Adobe Connect — http://www.adobe.com/products/adobeconnect.html
@@ -57,6 +72,9 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * Google Hangouts — https://www.google.com/+/learnmore/hangouts/
 * Skype — http://skype.com/
 * WebEx — http://www.webex.com/
+
+#### Infographics Tools
+* Visual.ly — http://visual.ly/
 
 #### Knowledge Tracking/Wiki
 * PBWorks — http://www.pbworks.com/education.html
@@ -67,13 +85,14 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * Absorb — http://www.absorblms.com/
 * Blackboard — http://www.blackboard.com/
 * CourseSites — http://www.coursesites.com
+* Edmodo — http://www.edmodo.com
 * Eliademy — http://eliademy.com/
 * Haiku Learning — http://www.haikulearning.com/
 * Lore — http://lore.com/
 * My Learning Space — http://www.mylearningspace.com.au/
 * Moodle — http://moodle.org/
 * OpenLearning — http://www.openlearning.com
-* Versal — https//versal.com/
+* Versal — http//versal.com/
 * World Mentoring Academy — http://worldmentoringacademy.com/
 
 #### Massive Open Online Courses
@@ -94,7 +113,7 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 
 #### Notes
 * Etherpad — http://etherpad.org/
-* Evernote — http://evernote.com
+* Evernote — http://evernote.com/ or [follow this link](https://www.evernote.com/referral/Registration.action?uid=21458963&sig=3b01fad8ef1fb251925d4a28e5ad8b30) to join and get the first month of Evernote Premium for free.
 * Google — http://keep.google.com/
 * Notable PDF — http://notablepdf.com/
 * Quip — https://quip.com/
@@ -102,12 +121,41 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * Workflowy — https://workflowy.com/
 
 #### Office Tools
+* Apple iWork — http://www.apple.com/creativity-apps/mac/
 * Google Docs — http://docs.google.com/
 * Google Sheets — http://sheets.google.com/
 * LibreOffice — http://www.libreoffice.org/
 * Microsoft Office — http://office.microsoft.com/
 * Microsoft Office Web Apps https://office.com/
 * OpenOffice — http://www.openoffice.org/
+
+#### Photo Resources
+* Conceptual Collection — http://co-photo.com/
+* Death to the Stock Photo — http://join.deathtothestockphoto.com/
+* Every Stock Photo — http://www.everystockphoto.com/
+* Free Photos — http://freephotos.mazeofminds.com/
+* Free Pixels — http://www.freepixels.com/
+* Free Stock Photos — http://freestockphotos.com/
+* Getty Images — http://www.gettyimages.com/
+* Getrefe — http://getrefe.tumblr.com/
+* Gratisography — http://www.gratisography.com/
+* IM Free — http://imcreator.com/free) *(requires attribution)*
+* Jay Mantri — http://jaymantri.com/
+* Little Visuals — http://littlevisuals.co/
+* MorgueFile — http://www.morguefile.com/
+* New Old Stock — http://nos.twnsnd.co/
+* Photogen — http://www.photogen.com/
+* Picjumbo — http://picjumbo.com/
+* Pixabay — http://pixabay.com/
+* Public Domain Archive — http://publicdomainarchive.com/
+* Public Domain Pictures & Images — http://www.pdpics.com/
+* Splitshire — http://splitshire.com/
+* Stockvault — http://www.stockvault.net/
+* Sunipix — http://www.sunipix.com/
+* Superfamous — http://superfamous.com/) *(requires attribution)*
+* The Pattern Library — http://thepatternlibrary.com/
+* Unsplash — http://unsplash.com/
+* Wikimedia Commons — https://commons.wikimedia.org/wiki/Main_Page
 
 #### Presentation Tools
 * Google Slides — http://slides.google.com
@@ -117,15 +165,17 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 #### Publishing Platforms
 * Blogger — http://blogger.com/
 * Google Sites — http://www.google.com/sites
+* Postach.io — http://postach.io/
 * Tumblr — http://tumblr.com/
 * WordPress — http://wordpress.com/, http://wordpress.org 
 
-#### Remote Collaborationn  
+#### Remote Collaboration  
 * TeamViewer — http://www.teamviewer.com/en/index.aspx
 
 #### Screen Recording
 * Camtasia — http://www.techsmith.com/download/camtasia/
 * Office Mix — https://mix.office.com/
+* PixiClip — http://www.pixiclip.com/beta/
 * Screencast — http://screencast.com/
 * Screenmailer — https://www.screenmailer.com
 * Screenr — https://www.screenr.com/
