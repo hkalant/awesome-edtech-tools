@@ -28,17 +28,17 @@
     * [Video Hosting](#user-content-video-hosting)
   * [What's Next](#user-content-whats-next)
 
-## Introduction [&uarr; up](#user-content-table-of-contents)
+## Introduction
 
 It's hosted on Github for a reason. Please [submit pull requests](https://github.com/hkalant/EducationalToolsResources/pulls).
 
-## The List [&uarr; up](#user-content-table-of-contents)
+## The List
 
-#### Chart Tools [&uarr; up](#user-content-table-of-contents)
+#### Chart Tools
 * Google Charts — https://developers.google.com/chart/
 * Lucid Chart — http://www.lucidchart.com/
 
-#### Cloud Storage [&uarr; up](#user-content-table-of-contents)
+#### Cloud Storage
 * Box — http://box.net/
 * Copy — http://copy.com
 * Dropbox — http://dropbox.com/
@@ -46,31 +46,31 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * Mega — http://mega.co.nz/
 * Microsoft OneDrive — https://onedrive.live.com
 
-#### Coding/Programming Schools [&uarr; up](#user-content-table-of-contents)
+#### Coding/Programming Schools
 * Code.org — http://code.org/
 * Codecademy — http://www.codecademy.com/
 * Code School — http://www.codeschool.com/
 * One Month — http://onemonth.com/
 
-#### Community Tools [&uarr; up](#user-content-table-of-contents)
+#### Community Tools
 * Discourse — http://www.discourse.org/
 * Disqus — http://www.disqus.com/
 * Muut — http://muut.com/
 
-#### Content Curation [&uarr; up](#user-content-table-of-contents)
+#### Content Curation
 * eduClipper — http://educlipper.net/
 * Pinterest — http://www.pinterest.com/
 * Scoop.it — http://www.scoop.it/
 * TED Education — http://ed.ted.com
 
-#### Forms/Surveys [&uarr; up](#user-content-table-of-contents)
+#### Forms/Surveys
 * Google Forms — http://www.google.com/google-d-s/createforms.html
 * LimeSurvey — http://www.limesurvey.org
 * SurveyMonkey — http://www.surveymonkey.com/
 * Typeform — http://www.typeform.com
 * Wufoo — http://www.wufoo.com/
 
-#### Group Communication [&uarr; up](#user-content-table-of-contents)
+#### Group Communication
 * Adobe Connect — http://www.adobe.com/products/adobeconnect.html
 * Blackboard Collaborate — http://www.blackboard.com/platforms/collaborate/overview.aspx
 * Google Hangouts — https://www.google.com/+/learnmore/hangouts/
@@ -78,15 +78,15 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * Voxopop — http://www.voxopop.com/
 * WebEx — http://www.webex.com/
 
-#### Infographics Tools [&uarr; up](#user-content-table-of-contents)
+#### Infographics Tools
 * Visual.ly — http://visual.ly/
 
-#### Knowledge Tracking/Wiki [&uarr; up](#user-content-table-of-contents)
+#### Knowledge Tracking/Wiki
 * PBWorks — http://www.pbworks.com/education.html
 * SlimWiki — http://slimwiki.com/ 
 * Wikispaces — http://www.wikispaces.com/
 
-#### Learning Management Systems [&uarr; up](#user-content-table-of-contents)
+#### Learning Management Systems
 * Absorb — http://www.absorblms.com/
 * Blackboard — http://www.blackboard.com/
 * CourseSites — http://www.coursesites.com
@@ -100,7 +100,7 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * Versal — http//versal.com/
 * World Mentoring Academy — http://worldmentoringacademy.com/
 
-#### Massive Open Online Courses [&uarr; up](#user-content-table-of-contents)
+#### Massive Open Online Courses
 * Acade.me — http://acade.me/
 * Academic Earth — http://academicearth.org/
 * Canvas — http://www.canvas.net/
@@ -116,7 +116,7 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * edX — http://www.edx.org/
 * WizIQ — http://www.wiziq.com/
 
-#### Notes [&uarr; up](#user-content-table-of-contents)
+#### Notes
 * Etherpad — http://etherpad.org/
 * Evernote — http://evernote.com/ or [join with this link](https://www.evernote.com/referral/Registration.action?uid=21458963&sig=3b01fad8ef1fb251925d4a28e5ad8b30) to get the first month of Evernote Premium for free.
 * Google — http://keep.google.com/
@@ -125,7 +125,7 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * Simplenote — http://simplenote.com/
 * Workflowy — https://workflowy.com/
 
-#### Office Tools [&uarr; up](#user-content-table-of-contents)
+#### Office Tools
 * Apple iWork — http://www.apple.com/creativity-apps/mac/
 * Google Docs — http://docs.google.com/
 * Google Sheets — http://sheets.google.com/
@@ -134,7 +134,7 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * Microsoft Office Web Apps https://office.com/
 * OpenOffice — http://www.openoffice.org/
 
-#### Photo Resources [&uarr; up](#user-content-table-of-contents)
+#### Photo Resources
 * Conceptual Collection — http://co-photo.com/
 * Death to the Stock Photo — http://join.deathtothestockphoto.com/
 * Every Stock Photo — http://www.everystockphoto.com/
@@ -162,12 +162,12 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * Unsplash — http://unsplash.com/
 * Wikimedia Commons — https://commons.wikimedia.org/wiki/Main_Page
 
-#### Presentation Tools [&uarr; up](#user-content-table-of-contents)
+#### Presentation Tools
 * Google Slides — http://slides.google.com
 * Prezi — http://prezi.com/
 * Speaker Deck — http://speakerdeck.com/
 
-#### Publishing Platforms [&uarr; up](#user-content-table-of-contents)
+#### Publishing Platforms
 * Blogger — http://blogger.com/
 * Edublogs — http://edublogs.org/
 * Google Sites — http://www.google.com/sites
@@ -175,13 +175,13 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * Tumblr — http://tumblr.com/
 * WordPress — http://wordpress.com/, http://wordpress.org 
 
-#### Remote Collaboration [&uarr; up](#user-content-table-of-contents)  
+#### Remote Collaboration
 * TeamViewer — http://www.teamviewer.com/en/index.aspx
 
-#### RSS Tools [&uarr; up](#user-content-table-of-contents)
+#### RSS Tools
 * Feedly — http://feedly.com
 
-#### Screen Recording [&uarr; up](#user-content-table-of-contents) 
+#### Screen Recording
 * Camtasia — http://www.techsmith.com/download/camtasia/
 * Office Mix — https://mix.office.com/
 * PixiClip — http://www.pixiclip.com/beta/
@@ -189,18 +189,18 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * Screenmailer — https://www.screenmailer.com
 * Screenr — https://www.screenr.com/
 
-#### Social Networking [&uarr; up](#user-content-table-of-contents)
+#### Social Networking
 * Buffer — http://bufferapp.com/
 * Hootsuite — http://hootsuite.com/
 * Meetup — http://www.meetup.com/
 * Tagboard — https://tagboard.com/
 
-#### Video Hosting [&uarr; up](#user-content-table-of-contents)
+#### Video Hosting
 * Vimeo — http://vimeo.com/
 * Wistia — http://wistia.com/
 * YouTube — http://www.youtube.com/
  
-## What's Next [&uarr; up](#user-content-table-of-contents)
+## What's Next
  
 Star the repo to help ensure it is maintained.
  
