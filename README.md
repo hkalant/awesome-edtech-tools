@@ -22,10 +22,11 @@
     * [Presentation Tools](#user-content-presentation-tools)
     * [Publishing Platforms](#user-content-publishing-platforms)
     * [Remote Collaboration](#user-content-remote-collaboration)
+    * [RSS Tools](#user-content-rss-tools)
     * [Screen Recording](#user-content-screen-recording)
     * [Social Networking](#user-content-social-networking)
     * [Video Hosting](#user-content-video-hosting)
-  * [Next Steps](#user-content-next-steps)
+  * [What's Next](#user-content-whats-next)
 
 ## Introduction [&uarr; up](#user-content-table-of-contents)
 
@@ -117,7 +118,7 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 
 #### Notes [&uarr; up](#user-content-table-of-contents)
 * Etherpad — http://etherpad.org/
-* Evernote — http://evernote.com/ or [follow this link](https://www.evernote.com/referral/Registration.action?uid=21458963&sig=3b01fad8ef1fb251925d4a28e5ad8b30) to join and get the first month of Evernote Premium for free.
+* Evernote — http://evernote.com/ or [join with this link](https://www.evernote.com/referral/Registration.action?uid=21458963&sig=3b01fad8ef1fb251925d4a28e5ad8b30) to get the first month of Evernote Premium for free.
 * Google — http://keep.google.com/
 * Notable PDF — http://notablepdf.com/
 * Quip — https://quip.com/
@@ -177,6 +178,9 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 #### Remote Collaboration [&uarr; up](#user-content-table-of-contents)  
 * TeamViewer — http://www.teamviewer.com/en/index.aspx
 
+#### RSS Tools [&uarr; up](#user-content-table-of-contents)
+* Feedly — http://feedly.com
+
 #### Screen Recording [&uarr; up](#user-content-table-of-contents) 
 * Camtasia — http://www.techsmith.com/download/camtasia/
 * Office Mix — https://mix.office.com/
@@ -188,6 +192,7 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 #### Social Networking [&uarr; up](#user-content-table-of-contents)
 * Buffer — http://bufferapp.com/
 * Hootsuite — http://hootsuite.com/
+* Meetup — http://www.meetup.com/
 * Tagboard — https://tagboard.com/
 
 #### Video Hosting [&uarr; up](#user-content-table-of-contents)
@@ -195,10 +200,10 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * Wistia — http://wistia.com/
 * YouTube — http://www.youtube.com/
  
-## Next Steps [&uarr; up](#user-content-table-of-contents)
+## What's Next [&uarr; up](#user-content-table-of-contents)
  
 Star the repo to help ensure it is maintained.
  
 [Tweet this repo](https://twitter.com/intent/tweet?related=hkalant&text=Educational tools and resources for educators and virtual teachers&url=https%3A%2F%2Fgithub.com%2Fhkalant%2FEducationalToolsResources&via=hkalant) so that more people discover it and add to it.
  
-Add your own tools/resources by [issuing a pull request](https://github.com/hkalant/EducationalToolsResources/pulls) or editing on Prose.
+Add your own tools/resources by [issuing a pull request](https://github.com/hkalant/EducationalToolsResources/pulls).
