@@ -84,6 +84,7 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * FutureLearn — http://www.futurelearn.com/
 * Iversity — http://iversity.org
 * Khan Academy — http://www.khanacademy.org/
+* MIT OpenCourseWare — http://ocw.mit.edu/index.htm
 * MOOEC — http://www.mooec.com/
 * NovoEd — http://novoed.com/
 * Saylor — http://www.saylor.org/
@@ -114,8 +115,8 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * Speaker Deck — http://speakerdeck.com/
 
 #### Publishing Platforms
-* Blogger - http://blogger.com/
-* Google Sites - http://www.google.com/sites
+* Blogger — http://blogger.com/
+* Google Sites — http://www.google.com/sites
 * Tumblr — http://tumblr.com/
 * WordPress — http://wordpress.com/, http://wordpress.org 
 
