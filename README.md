@@ -1,5 +1,6 @@
 # Educational Tools & Resources
-**Table of Contents**
+
+## Table of Contents
 
 * [Educational Tools & Resources](#user-content-educational-tools--resources)
   * [Introduction](#user-content-introduction)
@@ -14,7 +15,7 @@
     * [Infographics Tools](#user-content-infographics-tools)
     * [Knowledge Tracking/Wiki](#user-content-knowledge-trackingwiki)
     * [Learning Management Systems](#user-content-learning-management-systems)
-    * [Massice Open Online Courses](#user-content-massive-open-online-courses)
+    * [Massive Open Online Courses](#user-content-massive-open-online-courses)
     * [Notes](#user-content-notes)
     * [Office Tools](#user-content-office-tools)
     * [Photo Resources](#user-content-photo-resources)
@@ -22,10 +23,11 @@
     * [Publishing Platforms](#user-content-publishing-platforms)
     * [Remote Collaboration](#user-content-remote-collaboration)
     * [Screen Recording](#user-content-screen-recording)
+    * [Social Networking](#user-content-social-networking)
     * [Video Hosting](#user-content-video-hosting)
   * [Next Steps](#user-content-next-steps)
 
-#### Introduction
+## Introduction
 
 It's hosted on Github for a reason. Please [submit pull requests](https://github.com/hkalant/EducationalToolsResources/pulls).
 
@@ -57,6 +59,7 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 #### Content Curation
 * eduClipper — http://educlipper.net/
 * Pinterest — http://www.pinterest.com/
+* Scoop.it — http://www.scoop.it/
 * TED Education — http://ed.ted.com
 
 #### Forms/Surveys
@@ -71,6 +74,7 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * Blackboard Collaborate — http://www.blackboard.com/platforms/collaborate/overview.aspx
 * Google Hangouts — https://www.google.com/+/learnmore/hangouts/
 * Skype — http://skype.com/
+* Voxopop — http://www.voxopop.com/
 * WebEx — http://www.webex.com/
 
 #### Infographics Tools
@@ -164,6 +168,7 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 
 #### Publishing Platforms
 * Blogger — http://blogger.com/
+* Edublogs — http://edublogs.org/
 * Google Sites — http://www.google.com/sites
 * Postach.io — http://postach.io/
 * Tumblr — http://tumblr.com/
@@ -180,7 +185,12 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * Screenmailer — https://www.screenmailer.com
 * Screenr — https://www.screenr.com/
 
-#### Video Hosting 
+#### Social Networking
+* Buffer — http://bufferapp.com/
+* Hootsuite — http://hootsuite.com/
+* Tagboard — https://tagboard.com/
+
+#### Video Hosting [&uarr;](#user-content-table-of-contents)
 * Vimeo — http://vimeo.com/
 * Wistia — http://wistia.com/
 * YouTube — http://www.youtube.com/
