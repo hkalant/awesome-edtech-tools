@@ -10,6 +10,7 @@
     * [Coding/Programming Schools](#user-content-codingprogramming-schools)
     * [Community Tools](#user-content-community-tools)
     * [Content Curation](#user-content-content-curation)
+    * [Educational Networks](#user-content-educational-networks)
     * [Forms/Surveys](#user-content-formssurveys)
     * [Group Communication](#user-content-group-communication)
     * [Infographics Tools](#user-content-infographics-tools)
@@ -25,6 +26,7 @@
     * [RSS Tools](#user-content-rss-tools)
     * [Screen Recording](#user-content-screen-recording)
     * [Social Networking](#user-content-social-networking)
+    * [Video Authoring](#user-content-video-authoringediting)
     * [Video Hosting](#user-content-video-hosting)
   * [What's Next](#user-content-whats-next)
 
@@ -35,8 +37,10 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 ## The List
 
 #### Chart Tools
+* Gliffy — http://www.gliffy.com/
 * Google Charts — https://developers.google.com/chart/
 * Lucid Chart — http://www.lucidchart.com/
+* OmniGraffle — http://www.omnigroup.com/omnigraffle
 
 #### Cloud Storage
 * Box — http://box.net/
@@ -62,6 +66,10 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * Pinterest — http://www.pinterest.com/
 * Scoop.it — http://www.scoop.it/
 * TED Education — http://ed.ted.com
+
+#### Educational Networks
+* Discovery Education — http://www.discoveryeducation.com/
+* Scholastic — http://emea.scholastic.com/en
 
 #### Forms/Surveys
 * Google Forms — http://www.google.com/google-d-s/createforms.html
@@ -194,6 +202,9 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * Hootsuite — http://hootsuite.com/
 * Meetup — http://www.meetup.com/
 * Tagboard — https://tagboard.com/
+
+#### Video Authoring/Editing
+* Magisto — http://www.magisto.com/
 
 #### Video Hosting
 * Vimeo — http://vimeo.com/
