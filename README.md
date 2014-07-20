@@ -180,6 +180,7 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 #### Presentation Tools
 * Google Slides — http://slides.google.com
 * Prezi — http://prezi.com/
+* Slideshare — http://www.slideshare.net/
 * Speaker Deck — http://speakerdeck.com/
 
 #### Publishing Platforms
