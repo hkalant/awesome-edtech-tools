@@ -43,12 +43,19 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * OmniGraffle — http://www.omnigroup.com/omnigraffle
 
 #### Cloud Storage
+* Amazon Cloud Drive — http://www.amazon.com/clouddrive/
+* Apple iCloud — http://www.icloud.com/
 * Box — http://box.net/
+* CloudMe — http://www.cloudme.com
+* Cloudup — http://cloudup.com/
 * Copy — http://copy.com
 * Dropbox — http://dropbox.com/
 * Google Drive — http://drive.google.com/
 * Mega — http://mega.co.nz/
 * Microsoft OneDrive — https://onedrive.live.com
+* SpiderOak — http://spideroak.com/
+* SugarSync — http://www.sugarsync.com/
+* Yandex.Disk — http://disk.yandex.com/
 
 #### Coding/Programming Schools
 * Code.org — http://code.org/
