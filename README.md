@@ -32,7 +32,9 @@
 
 ## Introduction
 
-It's hosted on Github for a reason. Please [submit pull requests](https://github.com/hkalant/EducationalToolsResources/pulls).
+In the era of virtual education and online teaching, educators around the globe are in front of a really wide range of tools they can use in their courses. It is critical, yet too hard, to always stay up-to-date and be aware of all those resources. Inspired by the [HN Tools of Trade, 2014 Edition](https://github.com/cjbarber/ToolsOfTheTrade), I decided to create a similar repository on Github with a list of tools and resources for every teacher out there.
+
+If you are familiar with [Github](https://github.com/hkalant/EducationalToolsResources), go star it, fork it and add your own tools of trade. It's hosted on Github for a reason. Please [submit pull requests](https://github.com/hkalant/EducationalToolsResources/pulls).
 
 ## The List
 
@@ -61,6 +63,7 @@ It's hosted on Github for a reason. Please [submit pull requests](https://github
 * Code.org — http://code.org/
 * Codecademy — http://www.codecademy.com/
 * Code School — http://www.codeschool.com/
+* Massive Academy — http://massiveacademy.us/
 * One Month — http://onemonth.com/
 
 #### Community Tools
