@@ -156,6 +156,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * Conceptual Collection — http://co-photo.com/
 * Death to the Stock Photo — http://join.deathtothestockphoto.com/
 * Every Stock Photo — http://www.everystockphoto.com/
+* Fotopedia — http://www.fotopedia.com/
 * Free Photos — http://freephotos.mazeofminds.com/
 * Free Pixels — http://www.freepixels.com/
 * Free Stock Photos — http://freestockphotos.com/
