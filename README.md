@@ -199,6 +199,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 #### RSS Tools
 * Feedly — http://feedly.com
+* FlowReader — http://flowreader.com/ 
 
 #### Screen Recording
 * Camtasia — http://www.techsmith.com/download/camtasia/
