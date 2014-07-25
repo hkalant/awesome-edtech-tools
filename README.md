@@ -51,6 +51,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * CloudMe — http://www.cloudme.com
 * Cloudup — http://cloudup.com/
 * Copy — http://copy.com
+* Deepfreeze — http://www.deepfreeze.io/
 * Dropbox — http://dropbox.com/
 * Google Drive — http://drive.google.com/
 * Mega — http://mega.co.nz/
@@ -73,6 +74,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 #### Content Curation
 * eduClipper — http://educlipper.net/
+* Gibbon — http://gibbon.co/
 * Pinterest — http://www.pinterest.com/
 * Scoop.it — http://www.scoop.it/
 * TED Education — http://ed.ted.com
@@ -203,6 +205,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * FlowReader — http://flowreader.com/ 
 
 #### Screen Recording
+* Adobe Presenter — http://www.adobe.com/products/presenter.html
 * Camtasia — http://www.techsmith.com/download/camtasia/
 * Office Mix — https://mix.office.com/
 * PixiClip — http://www.pixiclip.com/beta/
