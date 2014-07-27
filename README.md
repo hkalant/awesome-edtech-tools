@@ -221,6 +221,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 #### Video Authoring/Editing
 * Magisto — http://www.magisto.com/
+* Zaption — http://www.zaption.com/
 
 #### Video Hosting
 * Vimeo — http://vimeo.com/
