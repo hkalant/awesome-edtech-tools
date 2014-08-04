@@ -93,6 +93,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 #### Group Communication
 * Adobe Connect — http://www.adobe.com/products/adobeconnect.html
 * Blackboard Collaborate — http://www.blackboard.com/platforms/collaborate/overview.aspx
+* ClassInteract — http://www.watchitoo.com/classinteract/
 * Google Hangouts — https://www.google.com/+/learnmore/hangouts/
 * Skype — http://skype.com/
 * Voxopop — http://www.voxopop.com/
