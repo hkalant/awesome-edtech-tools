@@ -223,8 +223,10 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * Tagboard — https://tagboard.com/
 
 #### Video Authoring/Editing
+* GoAnimate — http://goanimate.com/
 * Magisto — http://www.magisto.com/
 * Zaption — http://www.zaption.com/
+* PowToon — http://www.powtoon.com/
 
 #### Video Hosting
 * Vimeo — http://vimeo.com/
