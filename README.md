@@ -13,6 +13,7 @@
     * [Educational Networks](#user-content-educational-networks)
     * [Forms/Surveys](#user-content-formssurveys)
     * [Group Communication](#user-content-group-communication)
+    * [Image Creation](#user-content-image-creation)
     * [Infographics Tools](#user-content-infographics-tools)
     * [Knowledge Tracking/Wiki](#user-content-knowledge-trackingwiki)
     * [Learning Management Systems](#user-content-learning-management-systems)
@@ -100,6 +101,11 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * Voxopop — http://www.voxopop.com/
 * WebEx — http://www.webex.com/
 
+#### Image Creation
+
+* Squarespace Logo — http://www.squarespace.com/logo/
+* Withoomph — http://withoomph.com/
+
 #### Infographics Tools
 * Visual.ly — http://visual.ly/
 
@@ -120,6 +126,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * My Learning Space — http://www.mylearningspace.com.au/
 * Moodle — http://moodle.org/
 * OpenLearning — http://www.openlearning.com
+* SchoolKeep — http://www.schoolkeep.com/
 * Versal — http//versal.com/
 * World Mentoring Academy — http://worldmentoringacademy.com/
 
@@ -135,6 +142,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * MOOEC — http://www.mooec.com/
 * NovoEd — http://novoed.com/
 * Saylor — http://www.saylor.org/
+* Teachlr — http://www.teachlr.com/
 * Udemy — http://www.udemy.com/
 * edX — http://www.edx.org/
 * WizIQ — http://www.wiziq.com/
@@ -195,6 +203,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 #### Publishing Platforms
 * Blogger — http://blogger.com/
 * Edublogs — http://edublogs.org/
+* Ghost - http://ghost.org/
 * Google Sites — http://www.google.com/sites
 * Postach.io — http://postach.io/
 * Tumblr — http://tumblr.com/
