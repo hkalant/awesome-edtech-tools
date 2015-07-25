@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-* [Educational Tools & Resources](#user-content-educational-tools--resources)
   * [Introduction](#user-content-introduction)
   * [The List](#thelist)
     * [Chart Tools](#charttools)
@@ -40,13 +39,13 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ## The List
 
-##### Chart Tools
+### Chart Tools
 * [Gliffy](http://www.gliffy.com/)
 * [Google Charts](https://developers.google.com/chart/)
 * [Lucid Chart](http://www.lucidchart.com/)
 * [OmniGraffle](http://www.omnigroup.com/omnigraffle) **(Editor's Choice)**
 
-##### Cloud Storage
+### Cloud Storage
 * [Amazon Cloud Drive](http://www.amazon.com/clouddrive/)
 * [Apple iCloud](http://www.icloud.com/)
 * [Box](http://box.net/)
@@ -62,7 +61,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [SugarSync](http://www.sugarsync.com/)
 * [Yandex.Disk](http://disk.yandex.com/)
 
-##### Coding/Programming Schools
+### Coding/Programming Schools
 * [Bitfountain](http://bitfountain.io/)
 * [Code.org](http://code.org/)
 * [Codecademy](http://www.codecademy.com/)
@@ -72,19 +71,19 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Scratch](http://scratch.mit.edu/)
 * [Treehouse Club](http://teamtreehouse.com/library/treehouse-club-html)
 
-##### Community Tools
+### Community Tools
 * [Discourse](http://www.discourse.org/)
 * [Disqus](http://www.disqus.com/) **(Editor's Choice)**
 * [Muut](http://muut.com/)
 
-##### Content Curation
+### Content Curation
 * [eduClipper](http://educlipper.net/)
 * [Gibbon](http://gibbon.co/)
 * [Pinterest](http://www.pinterest.com/)
 * [Scoop.it](http://www.scoop.it/)
 * [TED Education](http://ed.ted.com) **(Editor's Choice)**
 
-##### Digital Portfolios
+### Digital Portfolios
 * [Chalk and Wire](http://www.chalkandwire.com)
 * [Digication](http://www.digication.com/)
 * [Learning Journey](http://www.learnerjourney.com/)
@@ -94,11 +93,11 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Portfolium](https://portfolium.com/educators)
 * [Seesaw](http://web.seesaw.me)
 
-##### Educational Networks
+### Educational Networks
 * [Discovery Education](http://www.discoveryeducation.com/)
 * [Scholastic](http://emea.scholastic.com/en)
 
-##### Forms/Surveys
+### Forms/Surveys
 * [Google Forms](http://www.google.com/google-d-s/createforms.html)
 * [LimeSurvey](http://www.limesurvey.org)
 * [Qualtrics](http://www.qualtrics.com) **(Editor's Choice)**
@@ -106,7 +105,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Typeform](http://www.typeform.com)
 * [Wufoo](http://www.wufoo.com/)
 
-##### Group Communication
+### Group Communication
 * [Adobe Connect](http://www.adobe.com/products/adobeconnect.html)
 * [Blackboard Collaborate](http://www.blackboard.com/platforms/collaborate/overview.aspx)
 * [ClassInteract](http://www.watchitoo.com/classinteract/)
@@ -118,21 +117,20 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Voxopop](http://www.voxopop.com/)
 * [WebEx](http://www.webex.com/)
 
-##### Image Creation
-
+### Image Creation
 * [Recite This](http://www.recitethis.com/)
 * [Squarespace Logo](http://www.squarespace.com/logo/)
 * [Withoomph](http://withoomph.com/)
 
-##### Infographics Tools
+### Infographics Tools
 * [Visual.ly](http://visual.ly/)
 
-##### Knowledge Tracking/Wiki
+### Knowledge Tracking/Wiki
 * [PBWorks](http://www.pbworks.com/education.html)
 * [SlimWiki](http://slimwiki.com/) **(Editor's Choice)**
 * [Wikispaces](http://www.wikispaces.com/)
 
-##### Learning Management Systems
+### Learning Management Systems
 * [Absorb](http://www.absorblms.com/)
 * [Blackboard](http://www.blackboard.com/)
 * [CourseSites](http://www.coursesites.com)
@@ -150,7 +148,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Versal](http//versal.com/)
 * [World Mentoring Academy](http://worldmentoringacademy.com/)
 
-##### Massive Open Online Courses
+### Massive Open Online Courses
 * [Acade.me](http://acade.me/)
 * [Academic Earth](http://academicearth.org/)
 * [Canvas](http://www.canvas.net/)
@@ -167,7 +165,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [edX](http://www.edx.org/)
 * [WizIQ](http://www.wiziq.com/)
 
-##### Notes
+### Notes
 * [Etherpad](http://etherpad.org/)
 * [Evernote](https://www.evernote.com/referral/Registration.action?uid=21458963&sig=3b01fad8ef1fb251925d4a28e5ad8b30) **(Editor's Choice)**
 * [Google Keep](http://keep.google.com/)
@@ -176,7 +174,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Simplenote](http://simplenote.com/)
 * [Workflowy](https://workflowy.com/)
 
-##### Office Tools
+### Office Tools
 * [Apple iWork](http://www.apple.com/creativity-apps/mac/)
 * [Google Docs](http://docs.google.com/)
 * [Google Sheets](http://sheets.google.com/)
@@ -185,51 +183,67 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Microsoft Office Web Apps](https://office.com/)
 * [OpenOffice](http://www.openoffice.org/)
 
-##### Photo Resources
+### Photo Resources
 * [Ancestry Images](http://www.ancestryimages.com/)
+* [Bara Art](http://www.bara-art.com/)
+* [Barn Images](http://barnimages.com/)
 * [BigFoto](http://www.bigfoto.com/)
-* [Death to the Stock Photo](http://deathtothestockphoto.com/)
+* [Cupcake](http://cupcake.nilssonlee.se/)
+* [Death to the Stock Photo](http://join.deathtothestockphoto.com/)
 * [Dreamtime](http://www.dreamstime.com/free-images_pg1)
+* [FancyCrave](http://fancycrave.com/)
+* [Foodies Food](http://foodiesfeed.com/free-images/)
 * [Free Digital Photos](http://www.freedigitalphotos.net/)
 * [Free Images](http://www.freeimages.com/)
+* [Freely Photos](http://freelyphotos.com/)
 * [Free Media Goo](http://www.freemediagoo.com/)
+* [Free Nature Stock](http://freenaturestock.com/)
 * [Free Photos](http://freephotos.mazeofminds.com/)
 * [Free Photos Bank](http://freephotosbank.com/)
 * [Free Range Stock](http://freerangestock.com/)
+* [Furius Camera](http://furiouscamera.com/)
 * [Getrefe](http://getrefe.tumblr.com/)
 * [Gratisography](http://www.gratisography.com/)
 * [Image Free](http://www.imagefree.com/)
 * [iStock](http://www.istockphoto.com/search/lightbox/13454712#1499d1d2) *(provides section with free images)*
 * [IM Free](http://imcreator.com/free) *(requires attribution)*
+* [ISO Republic](http://isorepublic.com/)
 * [Jay Mantri](http://jaymantri.com/)
+* [JÉSHOOTS](http://jeshoots.com/)
 * [Life of Pix](http://www.lifeofpix.com/)
 * [Little Visuals](http://littlevisuals.co/)
+* [Magdeleine](http://magdeleine.co/browse/)
+* [MMT](http://mmt.li/)
 * [MorgueFile](http://morguefile.com/)
-* [MyAlbum](http://beta.myalbum.com/) *(for creating beautiful photo albums)*
 * [New Old Stock](http://nos.twnsnd.co/)
-* [Photogen](http://www.photogen.com/)
-* [Photo Pin](http://photopin.com/)
+* [NOBL Web](http://www.noblweb.com/)
+* [Pexels](http://www.pexels.com/)
 * [Picjumbo](http://picjumbo.com/)
-* [Pickupimage](http://pickupimage.com/)
+* [Pickup Image](http://pickupimage.com/)
+* [Picography](http://picography.co/)
 * [Pixabay](http://pixabay.com/)
 * [Public Domain Archive](http://publicdomainarchive.com/)
 * [Public Domain Pictures](http://www.publicdomainpictures.net/)
+* [Raumrot](http://raumrot.com/)
+* [Realistic Shots](http://realisticshots.com/)
 * [RGB Stock](http://www.rgbstock.com/)
 * [Splitshire](http://splitshire.com/)
+* [Stock Up](http://www.sitebuilderreport.com/stock-up)
+* [StockSnap](https://stocksnap.io/)
 * [Stockvault](http://www.stockvault.net/)
 * [Superfamous](http://superfamous.com/) *(requires attribution)*
 * [The Pattern Library](http://thepatternlibrary.com/)
+* [Trunklog](http://trunklog.com/)
 * [Unsplash](http://unsplash.com/)
-* [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_page) 
+* [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_page)
 
-##### Presentation Tools
+### Presentation Tools
 * [Google Slides](http://slides.google.com)
 * [Prezi](http://prezi.com/)
 * [Slideshare](http://www.slideshare.net/)
 * [Speaker Deck](http://speakerdeck.com/)
 
-##### Publishing Platforms
-* [Blogger](http://blogger.com/)
+### Publishing Platforms
 * [Edublogs](http://edublogs.org/)
 * [Ghost](http://ghost.org/)
 * [Google Sites](http://www.google.com/sites)
@@ -238,14 +252,14 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Tumblr](http://tumblr.com/)
 * [WordPress](http://wordpress.com/)
 
-##### Remote Collaboration
+### Remote Collaboration
 * [TeamViewer](http://www.teamviewer.com/en/index.aspx)
 
-##### RSS Tools
+### RSS Tools
 * [Feedly](http://feedly.com) **(Editor's Choice)**
 * [FlowReader](http://flowreader.com/)
 
-##### Screen Recording
+### Screen Recording
 * [Adobe Presenter](http://www.adobe.com/products/presenter.html)
 * [Camtasia](http://www.techsmith.com/download/camtasia/)
 * [Office Mix](http://mix.office.com/) **(Editor's Choice)**
@@ -254,17 +268,17 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Screenmailer](http://www.screenmailer.com)
 * [Screenr](http://www.screenr.com/)
 
-##### Social Networking
+### Social Networking
 * [Buffer](http://bufferapp.com/)
 * [Hootsuite](http://hootsuite.com/)
 * [Meetup](http://www.meetup.com/)
 * [Tagboard](https://tagboard.com/)
 
-##### Video Authoring/Editing
+### Video Authoring/Editing
 * [Magisto](http://www.magisto.com/)
 * [Zaption](http://www.zaption.com/)
 
-##### Video Hosting
+### Video Hosting
 * [Vimeo](http://vimeo.com/)
 * [Wistia](http://wistia.com/)
 * [YouTube](http://www.youtube.com/)
