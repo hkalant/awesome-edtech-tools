@@ -4,32 +4,33 @@
 
 * [Educational Tools & Resources](#user-content-educational-tools--resources)
   * [Introduction](#user-content-introduction)
-  * [The List](#user-content-the-list)
-    * [Chart Tools](#user-content-chart-tools)
-    * [Cloud Storage](#user-content-cloud-storage) 
-    * [Coding/Programming Schools](#user-content-codingprogramming-schools)
-    * [Community Tools](#user-content-community-tools)
-    * [Content Curation](#user-content-content-curation)
-    * [Educational Networks](#user-content-educational-networks)
-    * [Forms/Surveys](#user-content-formssurveys)
-    * [Group Communication](#user-content-group-communication)
-    * [Image Creation](#user-content-image-creation)
-    * [Infographics Tools](#user-content-infographics-tools)
-    * [Knowledge Tracking/Wiki](#user-content-knowledge-trackingwiki)
-    * [Learning Management Systems](#user-content-learning-management-systems)
-    * [Massive Open Online Courses](#user-content-massive-open-online-courses)
-    * [Notes](#user-content-notes)
-    * [Office Tools](#user-content-office-tools)
-    * [Photo Resources](#user-content-photo-resources)
-    * [Presentation Tools](#user-content-presentation-tools)
-    * [Publishing Platforms](#user-content-publishing-platforms)
-    * [Remote Collaboration](#user-content-remote-collaboration)
-    * [RSS Tools](#user-content-rss-tools)
-    * [Screen Recording](#user-content-screen-recording)
-    * [Social Networking](#user-content-social-networking)
-    * [Video Authoring](#user-content-video-authoringediting)
-    * [Video Hosting](#user-content-video-hosting)
-  * [What's Next](#user-content-whats-next)
+  * [The List](#thelist)
+    * [Chart Tools](#charttools)
+    * [Cloud Storage](#cloudstorage) 
+    * [Coding/Programming Schools](#codingprogrammingschools)
+    * [Community Tools](#communitytools)
+    * [Content Curation](#contentcuration)
+    * [Educational Networks](#educationalnetworks)
+    * [Digital Portfolios](#digitalportfolios)
+    * [Forms/Surveys](#formssurveys)
+    * [Group Communication](#groupcommunication)
+    * [Image Creation](#imagecreation)
+    * [Infographics Tools](#infographicstools)
+    * [Knowledge Tracking/Wiki](#knowledgetrackingwiki)
+    * [Learning Management Systems](#learningmanagementsystems)
+    * [Massive Open Online Courses](#massiveopenonlinecourses)
+    * [Notes](#notes)
+    * [Office Tools](#officetools)
+    * [Photo Resources](#photoresources)
+    * [Presentation Tools](#presentationtools)
+    * [Publishing Platforms](#publishingplatforms)
+    * [Remote Collaboration](#remotecollaboration)
+    * [RSS Tools](#rsstools)
+    * [Screen Recording](#screenrecording)
+    * [Social Networking](#socialnetworking)
+    * [Video Authoring](#videoauthoringediting)
+    * [Video Hosting](#videohosting)
+  * [What's Next](#whatsnext)
 
 ## Introduction
 
@@ -39,208 +40,234 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ## The List
 
-#### Chart Tools
-* Gliffy — http://www.gliffy.com/
-* Google Charts — https://developers.google.com/chart/
-* Lucid Chart — http://www.lucidchart.com/
-* OmniGraffle — http://www.omnigroup.com/omnigraffle
+##### Chart Tools
+* [Gliffy](http://www.gliffy.com/)
+* [Google Charts](https://developers.google.com/chart/)
+* [Lucid Chart](http://www.lucidchart.com/)
+* [OmniGraffle](http://www.omnigroup.com/omnigraffle) **(Editor's Choice)**
 
-#### Cloud Storage
-* Amazon Cloud Drive — http://www.amazon.com/clouddrive/
-* Apple iCloud — http://www.icloud.com/
-* Box — http://box.net/
-* CloudMe — http://www.cloudme.com
-* Cloudup — http://cloudup.com/
-* Copy — http://copy.com
-* Deepfreeze — http://www.deepfreeze.io/
-* Dropbox — http://dropbox.com/
-* Google Drive — http://drive.google.com/
-* Mega — http://mega.co.nz/
-* Microsoft OneDrive — https://onedrive.live.com
-* SpiderOak — http://spideroak.com/
-* SugarSync — http://www.sugarsync.com/
-* Yandex.Disk — http://disk.yandex.com/
+##### Cloud Storage
+* [Amazon Cloud Drive](http://www.amazon.com/clouddrive/)
+* [Apple iCloud](http://www.icloud.com/)
+* [Box](http://box.net/)
+* [CloudMe](http://www.cloudme.com)
+* [Cloudup](http://cloudup.com/)
+* [Copy](http://copy.com)
+* [Deepfreeze](http://www.deepfreeze.io/)
+* [Dropbox](http://dropbox.com/)
+* [Google Drive](http://drive.google.com/) **(Editor's Choice)**
+* [Mega](http://mega.co.nz/)
+* [Microsoft OneDrive](http://onedrive.live.com)
+* [SpiderOak](http://spideroak.com/)
+* [SugarSync](http://www.sugarsync.com/)
+* [Yandex.Disk](http://disk.yandex.com/)
 
-#### Coding/Programming Schools
-* Code.org — http://code.org/
-* Codecademy — http://www.codecademy.com/
-* Code School — http://www.codeschool.com/
-* Massive Academy — http://massiveacademy.us/
-* One Month — http://onemonth.com/
+##### Coding/Programming Schools
+* [Bitfountain](http://bitfountain.io/)
+* [Code.org](http://code.org/)
+* [Codecademy](http://www.codecademy.com/)
+* [Code School](http://www.codeschool.com/)
+* [Massive Academy](http://massiveacademy.us/)
+* [One Month](http://onemonth.com/)
+* [Scratch](http://scratch.mit.edu/)
+* [Treehouse Club](http://teamtreehouse.com/library/treehouse-club-html)
 
-#### Community Tools
-* Discourse — http://www.discourse.org/
-* Disqus — http://www.disqus.com/
-* Muut — http://muut.com/
+##### Community Tools
+* [Discourse](http://www.discourse.org/)
+* [Disqus](http://www.disqus.com/) **(Editor's Choice)**
+* [Muut](http://muut.com/)
 
-#### Content Curation
-* eduClipper — http://educlipper.net/
-* Gibbon — http://gibbon.co/
-* Pinterest — http://www.pinterest.com/
-* Scoop.it — http://www.scoop.it/
-* TED Education — http://ed.ted.com
+##### Content Curation
+* [eduClipper](http://educlipper.net/)
+* [Gibbon](http://gibbon.co/)
+* [Pinterest](http://www.pinterest.com/)
+* [Scoop.it](http://www.scoop.it/)
+* [TED Education](http://ed.ted.com) **(Editor's Choice)**
 
-#### Educational Networks
-* Discovery Education — http://www.discoveryeducation.com/
-* Scholastic — http://emea.scholastic.com/en
+##### Digital Portfolios
+* [Chalk and Wire](http://www.chalkandwire.com)
+* [Digication](http://www.digication.com/)
+* [Learning Journey](http://www.learnerjourney.com/)
+* [Mahara](https://mahara.org/)
+* [Pathbrite](https://pathbrite.com) **(Editor's Choice)**
+* [PebblePad](http://www.pebblepad.co.uk/)
+* [Portfolium](https://portfolium.com/educators)
+* [Seesaw](http://web.seesaw.me)
 
-#### Forms/Surveys
-* Google Forms — http://www.google.com/google-d-s/createforms.html
-* LimeSurvey — http://www.limesurvey.org
-* SurveyMonkey — http://www.surveymonkey.com/
-* Typeform — http://www.typeform.com
-* Wufoo — http://www.wufoo.com/
+##### Educational Networks
+* [Discovery Education](http://www.discoveryeducation.com/)
+* [Scholastic](http://emea.scholastic.com/en)
 
-#### Group Communication
-* Adobe Connect — http://www.adobe.com/products/adobeconnect.html
-* Big Blue Button — http://bigbluebutton.org/
-* Blackboard Collaborate — http://www.blackboard.com/platforms/collaborate/overview.aspx
-* ClassInteract — http://www.watchitoo.com/classinteract/
-* Google Hangouts — https://www.google.com/+/learnmore/hangouts/
-* Skype — http://skype.com/
-* Voxopop — http://www.voxopop.com/
-* WebEx — http://www.webex.com/
+##### Forms/Surveys
+* [Google Forms](http://www.google.com/google-d-s/createforms.html)
+* [LimeSurvey](http://www.limesurvey.org)
+* [Qualtrics](http://www.qualtrics.com) **(Editor's Choice)**
+* [SurveyMonkey](http://www.surveymonkey.com/)
+* [Typeform](http://www.typeform.com)
+* [Wufoo](http://www.wufoo.com/)
 
-#### Image Creation
+##### Group Communication
+* [Adobe Connect](http://www.adobe.com/products/adobeconnect.html)
+* [Blackboard Collaborate](http://www.blackboard.com/platforms/collaborate/overview.aspx)
+* [ClassInteract](http://www.watchitoo.com/classinteract/)
+* [Google Hangouts](http://www.google.com/+/learnmore/hangouts/)
+* [Sameroom](https://sameroom.io)
+* [Skype](http://skype.com/)
+* [Slack](http://slack.com) **(Editor's Choice)**
+* [SlackEDU](http://www.slackedu.net)
+* [Voxopop](http://www.voxopop.com/)
+* [WebEx](http://www.webex.com/)
 
-* Squarespace Logo — http://www.squarespace.com/logo/
-* Withoomph — http://withoomph.com/
+##### Image Creation
 
-#### Infographics Tools
-* Visual.ly — http://visual.ly/
+* [Recite This](http://www.recitethis.com/)
+* [Squarespace Logo](http://www.squarespace.com/logo/)
+* [Withoomph](http://withoomph.com/)
 
-#### Knowledge Tracking/Wiki
-* PBWorks — http://www.pbworks.com/education.html
-* SlimWiki — http://slimwiki.com/ 
-* Wikispaces — http://www.wikispaces.com/
+##### Infographics Tools
+* [Visual.ly](http://visual.ly/)
 
-#### Learning Management Systems
-* Absorb — http://www.absorblms.com/
-* Blackboard — http://www.blackboard.com/
-* CourseSites — http://www.coursesites.com
-* Edmodo — http://www.edmodo.com
-* eFront — http://efrontlearning.net/
-* Eliademy — http://eliademy.com/
-* Haiku Learning — http://www.haikulearning.com/
-* Lore — http://lore.com/
-* My Learning Space — http://www.mylearningspace.com.au/
-* Moodle — http://moodle.org/
-* OpenLearning — http://www.openlearning.com
-* SchoolKeep — http://www.schoolkeep.com/
-* Versal — http//versal.com/
-* World Mentoring Academy — http://worldmentoringacademy.com/
+##### Knowledge Tracking/Wiki
+* [PBWorks](http://www.pbworks.com/education.html)
+* [SlimWiki](http://slimwiki.com/) **(Editor's Choice)**
+* [Wikispaces](http://www.wikispaces.com/)
 
-#### Massive Open Online Courses
-* Acade.me — http://acade.me/
-* Academic Earth — http://academicearth.org/
-* Canvas — http://www.canvas.net/
-* Coursera — http://www.coursera.org/
-* FutureLearn — http://www.futurelearn.com/
-* Iversity — http://iversity.org
-* Khan Academy — http://www.khanacademy.org/
-* MIT OpenCourseWare — http://ocw.mit.edu/index.htm
-* MOOEC — http://www.mooec.com/
-* NovoEd — http://novoed.com/
-* Saylor — http://www.saylor.org/
-* Teachlr — http://www.teachlr.com/
-* Udemy — http://www.udemy.com/
-* edX — http://www.edx.org/
-* WizIQ — http://www.wiziq.com/
+##### Learning Management Systems
+* [Absorb](http://www.absorblms.com/)
+* [Blackboard](http://www.blackboard.com/)
+* [CourseSites](http://www.coursesites.com)
+* [Edmodo](http://www.edmodo.com)
+* [eFront](http://efrontlearning.net/)
+* [Eliademy](http://eliademy.com/)
+* [Fedora](https://usefedora.com/)
+* [Haiku Learning](http://www.haikulearning.com/)
+* [LifterLMS](https://lifterlms.com/)
+* [Lore](http://lore.com/)
+* [My Learning Space](http://www.mylearningspace.com.au/)
+* [Moodle](http://moodle.org/)
+* [OpenLearning](http://www.openlearning.com)
+* [SchoolKeep](http://www.schoolkeep.com)
+* [Versal](http//versal.com/)
+* [World Mentoring Academy](http://worldmentoringacademy.com/)
 
-#### Notes
-* Etherpad — http://etherpad.org/
-* Evernote — http://evernote.com/ or [join with this link](https://www.evernote.com/referral/Registration.action?uid=21458963&sig=3b01fad8ef1fb251925d4a28e5ad8b30) to get the first month of Evernote Premium for free.
-* Google — http://keep.google.com/
-* Notable PDF — http://notablepdf.com/
-* Quip — https://quip.com/
-* Simplenote — http://simplenote.com/
-* Workflowy — https://workflowy.com/
+##### Massive Open Online Courses
+* [Acade.me](http://acade.me/)
+* [Academic Earth](http://academicearth.org/)
+* [Canvas](http://www.canvas.net/)
+* [Coursera](http://www.coursera.org/)
+* [FutureLearn](http://www.futurelearn.com/)
+* [Iversity](http://iversity.org)
+* [Khan Academy](http://www.khanacademy.org/)
+* [MIT OpenCourseWare](http://ocw.mit.edu/index.htm)
+* [MOOEC](http://www.mooec.com/)
+* [NovoEd](http://novoed.com/)
+* [Saylor](http://www.saylor.org/)
+* [Teachlr](http://www.teachlr.com/)
+* [Udemy](http://www.udemy.com/)
+* [edX](http://www.edx.org/)
+* [WizIQ](http://www.wiziq.com/)
 
-#### Office Tools
-* Apple iWork — http://www.apple.com/creativity-apps/mac/
-* Google Docs — http://docs.google.com/
-* Google Sheets — http://sheets.google.com/
-* LibreOffice — http://www.libreoffice.org/
-* Microsoft Office — http://office.microsoft.com/
-* Microsoft Office Web Apps https://office.com/
-* OpenOffice — http://www.openoffice.org/
+##### Notes
+* [Etherpad](http://etherpad.org/)
+* [Evernote](https://www.evernote.com/referral/Registration.action?uid=21458963&sig=3b01fad8ef1fb251925d4a28e5ad8b30) **(Editor's Choice)**
+* [Google Keep](http://keep.google.com/)
+* [Notable PDF](http://notablepdf.com/)
+* [Quip](https://quip.com/)
+* [Simplenote](http://simplenote.com/)
+* [Workflowy](https://workflowy.com/)
 
-#### Photo Resources
-* Conceptual Collection — http://co-photo.com/
-* Death to the Stock Photo — http://join.deathtothestockphoto.com/
-* Every Stock Photo — http://www.everystockphoto.com/
-* Fotopedia — http://www.fotopedia.com/
-* Free Photos — http://freephotos.mazeofminds.com/
-* Free Pixels — http://www.freepixels.com/
-* Free Stock Photos — http://freestockphotos.com/
-* Getty Images — http://www.gettyimages.com/
-* Getrefe — http://getrefe.tumblr.com/
-* Gratisography — http://www.gratisography.com/
-* IM Free — http://imcreator.com/free) *(requires attribution)*
-* Jay Mantri — http://jaymantri.com/
-* Little Visuals — http://littlevisuals.co/
-* MorgueFile — http://www.morguefile.com/
-* New Old Stock — http://nos.twnsnd.co/
-* Photogen — http://www.photogen.com/
-* Picjumbo — http://picjumbo.com/
-* Pixabay — http://pixabay.com/
-* Public Domain Archive — http://publicdomainarchive.com/
-* Public Domain Pictures & Images — http://www.pdpics.com/
-* Splitshire — http://splitshire.com/
-* Stockvault — http://www.stockvault.net/
-* Sunipix — http://www.sunipix.com/
-* Superfamous — http://superfamous.com/) *(requires attribution)*
-* The Pattern Library — http://thepatternlibrary.com/
-* Unsplash — http://unsplash.com/
-* Wikimedia Commons — https://commons.wikimedia.org/wiki/Main_Page
+##### Office Tools
+* [Apple iWork](http://www.apple.com/creativity-apps/mac/)
+* [Google Docs](http://docs.google.com/)
+* [Google Sheets](http://sheets.google.com/)
+* [LibreOffice](http://www.libreoffice.org/)
+* [Microsoft Office](http://office.microsoft.com/)
+* [Microsoft Office Web Apps](https://office.com/)
+* [OpenOffice](http://www.openoffice.org/)
 
-#### Presentation Tools
-* Google Slides — http://slides.google.com
-* Prezi — http://prezi.com/
-* Slideshare — http://www.slideshare.net/
-* Speaker Deck — http://speakerdeck.com/
+##### Photo Resources
+* [Ancestry Images](http://www.ancestryimages.com/)
+* [BigFoto](http://www.bigfoto.com/)
+* [Death to the Stock Photo](http://deathtothestockphoto.com/)
+* [Dreamtime](http://www.dreamstime.com/free-images_pg1)
+* [Free Digital Photos](http://www.freedigitalphotos.net/)
+* [Free Images](http://www.freeimages.com/)
+* [Free Media Goo](http://www.freemediagoo.com/)
+* [Free Photos](http://freephotos.mazeofminds.com/)
+* [Free Photos Bank](http://freephotosbank.com/)
+* [Free Range Stock](http://freerangestock.com/)
+* [Getrefe](http://getrefe.tumblr.com/)
+* [Gratisography](http://www.gratisography.com/)
+* [Image Free](http://www.imagefree.com/)
+* [iStock](http://www.istockphoto.com/search/lightbox/13454712#1499d1d2) *(provides section with free images)*
+* [IM Free](http://imcreator.com/free) *(requires attribution)*
+* [Jay Mantri](http://jaymantri.com/)
+* [Life of Pix](http://www.lifeofpix.com/)
+* [Little Visuals](http://littlevisuals.co/)
+* [MorgueFile](http://morguefile.com/)
+* [MyAlbum](http://beta.myalbum.com/) *(for creating beautiful photo albums)*
+* [New Old Stock](http://nos.twnsnd.co/)
+* [Photogen](http://www.photogen.com/)
+* [Photo Pin](http://photopin.com/)
+* [Picjumbo](http://picjumbo.com/)
+* [Pickupimage](http://pickupimage.com/)
+* [Pixabay](http://pixabay.com/)
+* [Public Domain Archive](http://publicdomainarchive.com/)
+* [Public Domain Pictures](http://www.publicdomainpictures.net/)
+* [RGB Stock](http://www.rgbstock.com/)
+* [Splitshire](http://splitshire.com/)
+* [Stockvault](http://www.stockvault.net/)
+* [Superfamous](http://superfamous.com/) *(requires attribution)*
+* [The Pattern Library](http://thepatternlibrary.com/)
+* [Unsplash](http://unsplash.com/)
+* [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_page) 
 
-#### Publishing Platforms
-* Blogger — http://blogger.com/
-* Edublogs — http://edublogs.org/
-* Ghost - http://ghost.org/
-* Google Sites — http://www.google.com/sites
-* Postach.io — http://postach.io/
-* Tumblr — http://tumblr.com/
-* WordPress — http://wordpress.com/, http://wordpress.org 
+##### Presentation Tools
+* [Google Slides](http://slides.google.com)
+* [Prezi](http://prezi.com/)
+* [Slideshare](http://www.slideshare.net/)
+* [Speaker Deck](http://speakerdeck.com/)
 
-#### Remote Collaboration
-* TeamViewer — http://www.teamviewer.com/en/index.aspx
+##### Publishing Platforms
+* [Blogger](http://blogger.com/)
+* [Edublogs](http://edublogs.org/)
+* [Ghost](http://ghost.org/)
+* [Google Sites](http://www.google.com/sites)
+* [Postach.io](http://postach.io/)
+* [Stampsy](http://stampsy.com/)
+* [Tumblr](http://tumblr.com/)
+* [WordPress](http://wordpress.com/)
 
-#### RSS Tools
-* Feedly — http://feedly.com
-* FlowReader — http://flowreader.com/ 
+##### Remote Collaboration
+* [TeamViewer](http://www.teamviewer.com/en/index.aspx)
 
-#### Screen Recording
-* Adobe Presenter — http://www.adobe.com/products/presenter.html
-* Camtasia — http://www.techsmith.com/download/camtasia/
-* Office Mix — https://mix.office.com/
-* PixiClip — http://www.pixiclip.com/beta/
-* Screencast — http://screencast.com/
-* Screenmailer — https://www.screenmailer.com
-* Screenr — https://www.screenr.com/
+##### RSS Tools
+* [Feedly](http://feedly.com) **(Editor's Choice)**
+* [FlowReader](http://flowreader.com/)
 
-#### Social Networking
-* Buffer — http://bufferapp.com/
-* Hootsuite — http://hootsuite.com/
-* Meetup — http://www.meetup.com/
-* Tagboard — https://tagboard.com/
+##### Screen Recording
+* [Adobe Presenter](http://www.adobe.com/products/presenter.html)
+* [Camtasia](http://www.techsmith.com/download/camtasia/)
+* [Office Mix](http://mix.office.com/) **(Editor's Choice)**
+* [PixiClip](http://www.pixiclip.com/beta/)
+* [Screencast](http://screencast.com/)
+* [Screenmailer](http://www.screenmailer.com)
+* [Screenr](http://www.screenr.com/)
 
-#### Video Authoring/Editing
-* GoAnimate — http://goanimate.com/
-* Magisto — http://www.magisto.com/
-* Zaption — http://www.zaption.com/
-* PowToon — http://www.powtoon.com/
+##### Social Networking
+* [Buffer](http://bufferapp.com/)
+* [Hootsuite](http://hootsuite.com/)
+* [Meetup](http://www.meetup.com/)
+* [Tagboard](https://tagboard.com/)
 
-#### Video Hosting
-* Vimeo — http://vimeo.com/
-* Wistia — http://wistia.com/
-* YouTube — http://www.youtube.com/
+##### Video Authoring/Editing
+* [Magisto](http://www.magisto.com/)
+* [Zaption](http://www.zaption.com/)
+
+##### Video Hosting
+* [Vimeo](http://vimeo.com/)
+* [Wistia](http://wistia.com/)
+* [YouTube](http://www.youtube.com/)
  
 ## What's Next
  
