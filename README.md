@@ -30,6 +30,7 @@
     * [Video Authoring/Editing](#video-authoringediting)
     * [Video Hosting](#video-hosting)
   * [What's Next](#whats-next)
+  * [License](#license)
 
 ## Introduction
 
