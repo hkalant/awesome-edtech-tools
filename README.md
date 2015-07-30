@@ -1,4 +1,4 @@
-# Educational Tools & Resources
+# Awesome Educational Technology Tools
 
 ## Table of Contents
 
@@ -294,3 +294,6 @@ Add your own tools/resources by [issuing a pull request](https://github.com/hkal
 
 ## License
 Available under the [CC0 license](http://creativecommons.org/publicdomain/zero/1.0/).
+
+---
+#### More awesome lists: [Awesome](https://github.com/sindresorhus/awesome) - A cureated list of awesome lists
