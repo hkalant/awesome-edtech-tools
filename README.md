@@ -30,7 +30,7 @@
     * [Video Authoring/Editing](#video-authoringediting)
     * [Video Hosting](#video-hosting)
   * [What's Next](#whats-next)
-  * [License](#license)
+  * [Licence](#licence)
 
 ## Introduction
 
@@ -290,13 +290,14 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Video Authoring/Editing
 * [Magisto](http://www.magisto.com/)
 * [Zaption](http://www.zaption.com/)
+* [VideoScribe](http://www.videoscribe.co)
 
 ### Video Hosting
 * [Vimeo](http://vimeo.com/)
 * [Wistia](http://wistia.com/)
 * [YouTube](http://www.youtube.com/)
  
-## What's Next
+## What to do next
  
 Star the repo to help ensure it is maintained.
  
@@ -304,7 +305,7 @@ Star the repo to help ensure it is maintained.
  
 Add your own tools/resources by [issuing a pull request](https://github.com/hkalant/EducationalToolsResources/pulls).
 
-## License
+## Licence
 Available under the [CC0 licence](http://creativecommons.org/publicdomain/zero/1.0/).
 
 ---
