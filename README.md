@@ -126,6 +126,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Infographics Tools
 * [Visual.ly](http://visual.ly/)
+* [Piktochart](http://piktochart.com)
 
 ### Knowledge Tracking/Wiki
 * [PBWorks](http://www.pbworks.com/education.html)
@@ -190,8 +191,11 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Bara Art](http://www.bara-art.com/)
 * [Barn Images](http://barnimages.com/)
 * [BigFoto](http://www.bigfoto.com/)
+* [Boss Fight](http://bossfight.co/)
+* [Crow The Stone](http://crowthestone.com/)
 * [Cupcake](http://cupcake.nilssonlee.se/)
 * [Death to the Stock Photo](http://join.deathtothestockphoto.com/)
+* [Don't Erase](http://georgeyanakiev.com/donterase/)
 * [Dreamtime](http://www.dreamstime.com/free-images_pg1)
 * [FancyCrave](http://fancycrave.com/)
 * [Foodies Food](http://foodiesfeed.com/free-images/)
@@ -217,6 +221,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Magdeleine](http://magdeleine.co/browse/)
 * [MMT](http://mmt.li/)
 * [MorgueFile](http://morguefile.com/)
+* [Moveast](http://moveast.me)
 * [New Old Stock](http://nos.twnsnd.co/)
 * [NOBL Web](http://www.noblweb.com/)
 * [Pexels](http://www.pexels.com/)
@@ -229,12 +234,18 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Raumrot](http://raumrot.com/)
 * [Realistic Shots](http://realisticshots.com/)
 * [RGB Stock](http://www.rgbstock.com/)
+* [Skitterphoto](http://skitterphoto.com/)
+* [Skuawk](http://skuawk.com/)
+* [Snapwire Snaps](http://snapwiresnaps.tumblr.com/)
 * [Splitshire](http://splitshire.com/)
+* [Startup Stock Photos](http://startupstockphotos.com)
 * [Stock Up](http://www.sitebuilderreport.com/stock-up)
 * [StockSnap](https://stocksnap.io/)
 * [Stockvault](http://www.stockvault.net/)
 * [Superfamous](http://superfamous.com/) *(requires attribution)*
 * [The Pattern Library](http://thepatternlibrary.com/)
+* [Tookapic](http://stock.tookapic.com/?filter=free)
+* [Travel Coffee Book](http://travelcoffeebook.com)
 * [Trunklog](http://trunklog.com/)
 * [Unsplash](http://unsplash.com/)
 * [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_page)
@@ -294,7 +305,7 @@ Star the repo to help ensure it is maintained.
 Add your own tools/resources by [issuing a pull request](https://github.com/hkalant/EducationalToolsResources/pulls).
 
 ## License
-Available under the [CC0 license](http://creativecommons.org/publicdomain/zero/1.0/).
+Available under the [CC0 licence](http://creativecommons.org/publicdomain/zero/1.0/).
 
 ---
-#### More awesome lists: [Awesome](https://github.com/sindresorhus/awesome) - A cureated list of awesome lists
+#### More awesome lists: [Awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
