@@ -288,6 +288,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Tagboard](https://tagboard.com/)
 
 ### Video Authoring/Editing
+* [HapYak](http://corp.hapyak.com)
 * [Magisto](http://www.magisto.com/)
 * [Zaption](http://www.zaption.com/)
 * [VideoScribe](http://www.videoscribe.co)
