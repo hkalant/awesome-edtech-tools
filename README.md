@@ -18,6 +18,7 @@
     * [Knowledge Tracking/Wiki](#knowledge-trackingwiki)
     * [Learning Management Systems](#learning-management-systems)
     * [Massive Open Online Courses](#massive-open-online-courses)
+    * [Music Composition](#music-composition)
     * [Notes](#notes)
     * [Office Tools](#office-tools)
     * [Photo Resources](#photo-resources)
@@ -167,6 +168,9 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Udemy](http://www.udemy.com/)
 * [edX](http://www.edx.org/)
 * [WizIQ](http://www.wiziq.com/)
+
+### Music Composition
+* [Jukedeck](https://www.jukedeck.com/?invite=2c0fbb79f087b1dc2f0eaf4590d56948cec0295422adab7147c9167a0de7b948)
 
 ### Notes
 * [Etherpad](http://etherpad.org/)
