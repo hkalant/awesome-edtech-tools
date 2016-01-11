@@ -179,7 +179,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [WizIQ](http://www.wiziq.com/)
 
 ### Music Composition
-* [Jukedeck](https://www.jukedeck.com/?invite=2c0fbb79f087b1dc2f0eaf4590d56948cec0295422adab7147c9167a0de7b948)
+* [Jukedeck](https://www.jukedeck.com/?invite=2c0fbb79f087b1dc2f0eaf4590d56948cec0295422adab7147c9167a0de7b948) **(Editor's Choice)**
 
 ### Notes
 * [Etherpad](http://etherpad.org/)
