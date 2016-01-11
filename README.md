@@ -5,12 +5,13 @@
   * [Introduction](#user-content-introduction)
   * [The List](#the-list)
     * [Chart Tools](#chart-tools)
-    * [Cloud Storage](#cloud-storage) 
+    * [Cloud Storage](#cloud-storage)
     * [Coding/Programming Schools](#codingprogramming-schools)
     * [Community Tools](#community-tools)
     * [Content Curation](#content-curation)
-    * [Educational Networks](#educational-networks)
     * [Digital Portfolios](#digital-portfolios)
+    * [Educational Networks](#educational-networks)
+    * [E-learning Authoring Tools](#e-learning-authoring-tools)
     * [Forms/Surveys](#formssurveys)
     * [Group Communication](#group-communication)
     * [Image Creation](#image-creation)
@@ -100,6 +101,13 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Discovery Education](http://www.discoveryeducation.com/)
 * [Scholastic](http://emea.scholastic.com/en)
 
+### E-learning Authoring Tools
+* [Adapt](https://github.com/adaptlearning/adapt_authoring)
+* [Adobe Captivate](http://www.adobe.com/uk/products/captivate.html)
+* [Articulate Storyline](https://www.articulate.com/products/storyline-why.php)
+* [eXe](http://exelearning.net)
+* [Lectora](http://trivantis.com/products/inspire-e-learning-software/)
+
 ### Forms/Surveys
 * [Google Forms](http://www.google.com/google-d-s/createforms.html)
 * [LimeSurvey](http://www.limesurvey.org)
@@ -149,6 +157,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Moodle](http://moodle.org/)
 * [OpenLearning](http://www.openlearning.com)
 * [SchoolKeep](http://www.schoolkeep.com)
+* [Totara LMS](https://www.totaralms.com)
 * [Versal](http//versal.com/)
 * [World Mentoring Academy](http://worldmentoringacademy.com/)
 
@@ -281,6 +290,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Camtasia](http://www.techsmith.com/download/camtasia/)
 * [Office Mix](http://mix.office.com/) **(Editor's Choice)**
 * [PixiClip](http://www.pixiclip.com/beta/)
+* [Quickcast](http://quickcast.io)
 * [Screencast](http://screencast.com/)
 * [Screenmailer](http://www.screenmailer.com)
 * [Screenr](http://www.screenr.com/)
@@ -301,13 +311,13 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Vimeo](http://vimeo.com/)
 * [Wistia](http://wistia.com/)
 * [YouTube](http://www.youtube.com/)
- 
+
 ## What to do next
- 
+
 Star the repo to help ensure it is maintained.
- 
+
 [Tweet this repo](https://twitter.com/intent/tweet?related=hkalant&text=Educational tools and resources for educators and virtual teachers&url=https%3A%2F%2Fgithub.com%2Fhkalant%2FEducationalToolsResources&via=hkalant) so that more people discover it and add to it.
- 
+
 Add your own tools/resources by [issuing a pull request](https://github.com/hkalant/EducationalToolsResources/pulls).
 
 ## Licence
