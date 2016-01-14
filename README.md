@@ -29,6 +29,7 @@
     * [RSS Tools](#rss-tools)
     * [Screen Recording](#screen-recording)
     * [Social Networking](#social-networking)
+    * [Utilities](#utilities)
     * [Video Authoring/Editing](#video-authoringediting)
     * [Video Hosting](#video-hosting)
   * [What's Next](#whats-next)
@@ -129,6 +130,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [WebEx](http://www.webex.com/)
 
 ### Image Creation
+* [Pablo](http://buffer.com/pablo) *by Buffer*
 * [Recite This](http://www.recitethis.com/)
 * [Squarespace Logo](http://www.squarespace.com/logo/)
 * [Withoomph](http://withoomph.com/)
@@ -300,6 +302,9 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Hootsuite](http://hootsuite.com/)
 * [Meetup](http://www.meetup.com/)
 * [Tagboard](https://tagboard.com/)
+
+### Utilities
+* [Linkpack](http://linkpack.io)
 
 ### Video Authoring/Editing
 * [HapYak](http://corp.hapyak.com)
