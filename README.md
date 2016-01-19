@@ -136,8 +136,11 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Withoomph](http://withoomph.com/)
 
 ### Infographics Tools
-* [Visual.ly](http://visual.ly/)
+* [Easelly](http://www.easel.ly)
+* [Infogram](https://infogr.am)
 * [Piktochart](http://piktochart.com)
+* [Venngage](http://venngage.com)
+* [Visual.ly](http://visual.ly/)
 
 ### Knowledge Tracking/Wiki
 * [PBWorks](http://www.pbworks.com/education.html)
