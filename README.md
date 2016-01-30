@@ -10,7 +10,9 @@
     * [Community Tools](#community-tools)
     * [Content Curation](#content-curation)
     * [Digital Portfolios](#digital-portfolios)
+    * [Digital Storytelling](#digital-storytelling)
     * [Educational Networks](#educational-networks)
+    * [Educational Scenarios](#educational-scenarios)
     * [E-learning Authoring Tools](#e-learning-authoring-tools)
     * [Forms/Surveys](#formssurveys)
     * [Group Communication](#group-communication)
@@ -98,12 +100,19 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Portfolium](https://portfolium.com/educators)
 * [Seesaw](http://web.seesaw.me)
 
+### Digital Storytelling
+* [Adobe Slate](https://standout.adobe.com/slate/)
+* [Sway](https://sway.com)
+
 ### Educational Networks
 * [Discovery Education](http://www.discoveryeducation.com/)
 * [Scholastic](http://emea.scholastic.com/en)
 
+### Educational Scenarios
+* [Twinery](http://twinery.org)
+
 ### E-learning Authoring Tools
-* [Adapt](https://github.com/adaptlearning/adapt_authoring)
+* [Adapt](https://community.adaptlearning.org)
 * [Adobe Captivate](http://www.adobe.com/uk/products/captivate.html)
 * [Articulate Storyline](https://www.articulate.com/products/storyline-why.php)
 * [eXe](http://exelearning.net)
@@ -124,7 +133,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Google Hangouts](http://www.google.com/+/learnmore/hangouts/)
 * [Sameroom](https://sameroom.io)
 * [Skype](http://skype.com/)
-* [Slack](http://slack.com) **(Editor's Choice)**
+* [Slack](http://slack.com)
 * [SlackEDU](http://www.slackedu.net)
 * [Voxopop](http://www.voxopop.com/)
 * [WebEx](http://www.webex.com/)
@@ -311,7 +320,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Linkpack](http://linkpack.io)
 
 ### Video Authoring/Editing
-* [HapYak](http://corp.hapyak.com)
+* [Adobe Voice](https://standout.adobe.com/voice/)
 * [Magisto](http://www.magisto.com/)
 * [VideoScribe](http://www.videoscribe.co)
 * [Zaption](http://www.zaption.com/)
@@ -320,6 +329,9 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Vimeo](http://vimeo.com/)
 * [Wistia](http://wistia.com/)
 * [YouTube](http://www.youtube.com/)
+
+### Web Authoring
+* [Weld](https://www.weld.io)
 
 ## What to do next
 
