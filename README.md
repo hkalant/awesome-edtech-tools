@@ -102,6 +102,8 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Digital Storytelling
 * [Adobe Slate](https://standout.adobe.com/slate/)
+* [Atavist](https://atavist.com)
+* [Interlude Treehouse](https://interlude.fm/treehouse)
 * [Sway](https://sway.com)
 
 ### Educational Networks
