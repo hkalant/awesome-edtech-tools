@@ -34,6 +34,8 @@
     * [Utilities](#utilities)
     * [Video Authoring/Editing](#video-authoringediting)
     * [Video Hosting](#video-hosting)
+    * [Web Authoring](#web-authoring)
+    * [Whiteboard Tools](#whiteboard-tools)
   * [What's Next](#whats-next)
   * [Licence](#licence)
 
@@ -58,8 +60,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Box](http://box.net/)
 * [CloudMe](http://www.cloudme.com)
 * [Cloudup](http://cloudup.com/)
-* [Copy](http://copy.com)
-* [Deepfreeze](http://www.deepfreeze.io/)
 * [Dropbox](http://dropbox.com/)
 * [Google Drive](http://drive.google.com/) **(Editor's Choice)**
 * [Mega](http://mega.co.nz/)
@@ -239,6 +239,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Free Range Stock](http://freerangestock.com/)
 * [Furius Camera](http://furiouscamera.com/)
 * [Getrefe](http://getrefe.tumblr.com/)
+* [Good Free Photos](http://www.goodfreephotos.com/)
 * [Gratisography](http://www.gratisography.com/)
 * [Image Free](http://www.imagefree.com/)
 * [iStock](http://www.istockphoto.com/search/lightbox/13454712#1499d1d2) *(provides section with free images)*
@@ -324,6 +325,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Video Authoring/Editing
 * [Adobe Voice](https://standout.adobe.com/voice/)
 * [Magisto](http://www.magisto.com/)
+* [Shakr](https://www.shakr.com)
 * [VideoScribe](http://www.videoscribe.co)
 * [Zaption](http://www.zaption.com/)
 
@@ -334,6 +336,9 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Web Authoring
 * [Weld](https://www.weld.io)
+
+### Whiteboard Tools
+* [Realtime Board](https://realtimeboard.com)
 
 ## What to do next
 
