@@ -203,6 +203,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Evernote](https://www.evernote.com/referral/Registration.action?uid=21458963&sig=3b01fad8ef1fb251925d4a28e5ad8b30) **(Editor's Choice)**
 * [Google Keep](http://keep.google.com/)
 * [Notable PDF](http://notablepdf.com/)
+* [Papier](https://getpapier.com)
 * [Quip](https://quip.com/)
 * [Simplenote](http://simplenote.com/)
 * [Workflowy](https://workflowy.com/)
