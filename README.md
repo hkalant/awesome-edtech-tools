@@ -48,6 +48,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ## The List
 
 ### Chart Tools
+* [Beam](https://venngage.com/beam/)
 * [Creately](http://creately.com/)
 * [Gliffy](http://www.gliffy.com/)
 * [Google Charts](https://developers.google.com/chart/)
