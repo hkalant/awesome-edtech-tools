@@ -119,6 +119,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Adobe Captivate](http://www.adobe.com/uk/products/captivate.html)
 * [Articulate Storyline](https://www.articulate.com/products/storyline-why.php)
 * [eXe](http://exelearning.net)
+* [H5P](https://h5p.org)
 * [Lectora](http://trivantis.com/products/inspire-e-learning-software/)
 
 ### Forms/Surveys
