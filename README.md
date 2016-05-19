@@ -102,7 +102,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Seesaw](http://web.seesaw.me)
 
 ### Digital Storytelling
-* [Adobe Slate](https://standout.adobe.com/slate/)
+* [Adobe Spark](https://spark.adobe.com/)
 * [Atavist](https://atavist.com)
 * [Interlude Treehouse](https://interlude.fm/treehouse)
 * [Sway](https://sway.com)
