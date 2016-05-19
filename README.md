@@ -8,6 +8,7 @@
     * [Cloud Storage](#cloud-storage)
     * [Coding/Programming Schools](#codingprogramming-schools)
     * [Community Tools](#community-tools)
+    * [Content Creation](#content-creation)
     * [Content Curation](#content-curation)
     * [Digital Portfolios](#digital-portfolios)
     * [Digital Storytelling](#digital-storytelling)
@@ -84,6 +85,9 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Disqus](http://www.disqus.com/) **(Editor's Choice)**
 * [Muut](http://muut.com/)
 
+### Content Creation
+* [Adobe Spark](https://spark.adobe.com/)
+
 ### Content Curation
 * [eduClipper](http://educlipper.net/)
 * [Gibbon](http://gibbon.co/)
@@ -102,7 +106,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Seesaw](http://web.seesaw.me)
 
 ### Digital Storytelling
-* [Adobe Spark](https://spark.adobe.com/)
 * [Atavist](https://atavist.com)
 * [Interlude Treehouse](https://interlude.fm/treehouse)
 * [Sway](https://sway.com)
