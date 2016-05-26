@@ -334,6 +334,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Magisto](http://www.magisto.com/)
 * [Shakr](https://www.shakr.com)
 * [VideoScribe](http://www.videoscribe.co)
+* [WeVideo](https://www.wevideo.com)
 * [Zaption](http://www.zaption.com/)
 
 ### Video Hosting
