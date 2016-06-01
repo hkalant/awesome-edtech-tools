@@ -330,7 +330,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Linkpack](http://linkpack.io)
 
 ### Video Authoring/Editing
-* [Adobe Voice](https://standout.adobe.com/voice/)
 * [Magisto](http://www.magisto.com/)
 * [Shakr](https://www.shakr.com)
 * [VideoScribe](http://www.videoscribe.co)
