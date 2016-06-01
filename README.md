@@ -35,6 +35,7 @@
     * [Utilities](#utilities)
     * [Video Authoring/Editing](#video-authoringediting)
     * [Video Hosting](#video-hosting)
+    * [Web Annotation](#web-annotation)
     * [Web Authoring](#web-authoring)
     * [Whiteboard Tools](#whiteboard-tools)
   * [What's Next](#whats-next)
@@ -341,6 +342,10 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Vimeo](http://vimeo.com/)
 * [Wistia](http://wistia.com/)
 * [YouTube](http://www.youtube.com/)
+
+### Web Annotation
+* [Genius](http://genius.com/web-annotator)
+* [Hypothesis](https://hypothes.is)
 
 ### Web Authoring
 * [Tilda](http://tilda.cc/)
