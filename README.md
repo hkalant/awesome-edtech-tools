@@ -167,7 +167,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Learning Management Systems
 * [Absorb](http://www.absorblms.com/)
 * [Blackboard](http://www.blackboard.com/)
-* [Canvas](http://www.canvas.net/)
+* [Canvas LMS](http://www.canvaslms.com/)
 * [CourseSites](http://www.coursesites.com)
 * [Edmodo](http://www.edmodo.com)
 * [eFront](http://efrontlearning.net/)
@@ -187,6 +187,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Massive Open Online Courses
 * [Acade.me](http://acade.me/)
 * [Academic Earth](http://academicearth.org/)
+* [Canvas](https://www.canvas.net)
 * [Coursera](http://www.coursera.org/)
 * [FutureLearn](http://www.futurelearn.com/)
 * [Iversity](http://iversity.org)
