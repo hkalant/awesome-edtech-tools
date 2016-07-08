@@ -256,6 +256,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [ISO Republic](http://isorepublic.com/)
 * [Jay Mantri](http://jaymantri.com/)
 * [JÉSHOOTS](http://jeshoots.com/)
+* [Just Good Photos](http://justgoodphotos.io)
 * [Life of Pix](http://www.lifeofpix.com/)
 * [Little Visuals](http://littlevisuals.co/)
 * [Magdeleine](http://magdeleine.co/browse/)
