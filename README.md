@@ -25,6 +25,7 @@
     * [Music Composition](#music-composition)
     * [Notes](#notes)
     * [Office Tools](#office-tools)
+    * [Photo Manipulation](#photo-manipulation)
     * [Photo Resources](#photo-resources)
     * [Presentation Tools](#presentation-tools)
     * [Publishing Platforms](#publishing-platforms)
@@ -223,6 +224,9 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Microsoft Office](http://office.microsoft.com/)
 * [Microsoft Office Web Apps](https://office.com/)
 * [OpenOffice](http://www.openoffice.org/)
+
+### Photo Manipulation
+* [Landscape](http://sproutsocial.com/landscape)
 
 ### Photo Resources
 * [Ancestry Images](http://www.ancestryimages.com/)
