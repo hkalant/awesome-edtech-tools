@@ -217,7 +217,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Workflowy](https://workflowy.com/)
 
 ### Office Tools
-* [Apple iWork](http://www.apple.com/creativity-apps/mac/)
 * [Google Docs](http://docs.google.com/)
 * [Google Sheets](http://sheets.google.com/)
 * [LibreOffice](http://www.libreoffice.org/)
