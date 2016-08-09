@@ -324,7 +324,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Quickcast](http://quickcast.io)
 * [Screencast](http://screencast.com/)
 * [Screenmailer](http://www.screenmailer.com)
-* [Screenr](http://www.screenr.com/)
 
 ### Social Networking
 * [Buffer](http://bufferapp.com/)
