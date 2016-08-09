@@ -25,6 +25,7 @@
     * [Music Composition](#music-composition)
     * [Notes](#notes)
     * [Office Tools](#office-tools)
+    * [Online Collaboration](#online-collaboration)
     * [Photo Manipulation](#photo-manipulation)
     * [Photo Resources](#photo-resources)
     * [Presentation Tools](#presentation-tools)
@@ -223,6 +224,11 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Microsoft Office](http://office.microsoft.com/)
 * [Microsoft Office Web Apps](https://office.com/)
 * [OpenOffice](http://www.openoffice.org/)
+
+### Online Collaboration
+* [Calendly](https://calendly.com)
+* [Canvas](https://usecanvas.com)
+* [Timezone.io](https://timezone.io/)
 
 ### Photo Manipulation
 * [Landscape](http://sproutsocial.com/landscape)
