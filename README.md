@@ -274,6 +274,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [MMT](http://mmt.li/)
 * [MorgueFile](http://morguefile.com/)
 * [Moveast](http://moveast.me)
+* [Mystock.photos](http://mystock.photos)
 * [New Old Stock](http://nos.twnsnd.co/)
 * [NOBL Web](http://www.noblweb.com/)
 * [Pexels](http://www.pexels.com/)
