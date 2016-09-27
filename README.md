@@ -57,7 +57,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Gliffy](http://www.gliffy.com/)
 * [Google Charts](https://developers.google.com/chart/)
 * [Lucid Chart](http://www.lucidchart.com/)
-* [OmniGraffle](http://www.omnigroup.com/omnigraffle) **(Editor's Choice)**
+* [OmniGraffle](http://www.omnigroup.com/omnigraffle)
 
 ### Cloud Storage
 * [Amazon Cloud Drive](http://www.amazon.com/clouddrive/)
@@ -66,7 +66,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [CloudMe](http://www.cloudme.com)
 * [Cloudup](http://cloudup.com/)
 * [Dropbox](http://dropbox.com/)
-* [Google Drive](http://drive.google.com/) **(Editor's Choice)**
+* [Google Drive](http://drive.google.com/)
 * [Mega](http://mega.co.nz/)
 * [Microsoft OneDrive](http://onedrive.live.com)
 * [SpiderOak](http://spideroak.com/)
@@ -85,7 +85,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Community Tools
 * [Discourse](http://www.discourse.org/)
-* [Disqus](http://www.disqus.com/) **(Editor's Choice)**
+* [Disqus](http://www.disqus.com/)
 * [Muut](http://muut.com/)
 
 ### Content Creation
@@ -96,14 +96,14 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Gibbon](http://gibbon.co/)
 * [Pinterest](http://www.pinterest.com/)
 * [Scoop.it](http://www.scoop.it/)
-* [TED Education](http://ed.ted.com) **(Editor's Choice)**
+* [TED Education](http://ed.ted.com)
 
 ### Digital Portfolios
 * [Chalk and Wire](http://www.chalkandwire.com)
 * [Digication](http://www.digication.com/)
 * [Learning Journey](http://www.learnerjourney.com/)
 * [Mahara](https://mahara.org/)
-* [Pathbrite](https://pathbrite.com) **(Editor's Choice)**
+* [Pathbrite](https://pathbrite.com)
 * [PebblePad](http://www.pebblepad.co.uk/)
 * [Portfolium](https://portfolium.com/educators)
 * [Seesaw](http://web.seesaw.me)
@@ -132,7 +132,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Google Forms](http://www.google.com/google-d-s/createforms.html)
 * [Iterate](https://iteratehq.com/)
 * [LimeSurvey](http://www.limesurvey.org)
-* [Qualtrics](http://www.qualtrics.com) **(Editor's Choice)**
+* [Qualtrics](http://www.qualtrics.com)
 * [SurveyMonkey](http://www.surveymonkey.com/)
 * [Typeform](http://www.typeform.com)
 * [Wufoo](http://www.wufoo.com/)
@@ -165,7 +165,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Knowledge Tracking/Wiki
 * [PBWorks](http://www.pbworks.com/education.html)
-* [SlimWiki](http://slimwiki.com/) **(Editor's Choice)**
+* [SlimWiki](http://slimwiki.com/)
 * [Wikispaces](http://www.wikispaces.com/)
 
 ### Learning Management Systems
@@ -206,11 +206,11 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [WizIQ](http://www.wiziq.com/)
 
 ### Music Composition
-* [Jukedeck](https://www.jukedeck.com/?invite=2c0fbb79f087b1dc2f0eaf4590d56948cec0295422adab7147c9167a0de7b948) **(Editor's Choice)**
+* [Jukedeck](https://www.jukedeck.com/?invite=2c0fbb79f087b1dc2f0eaf4590d56948cec0295422adab7147c9167a0de7b948)
 
 ### Notes
 * [Etherpad](http://etherpad.org/)
-* [Evernote](https://www.evernote.com/referral/Registration.action?uid=21458963&sig=3b01fad8ef1fb251925d4a28e5ad8b30) **(Editor's Choice)**
+* [Evernote](https://www.evernote.com/referral/Registration.action?uid=21458963&sig=3b01fad8ef1fb251925d4a28e5ad8b30)
 * [Google Keep](http://keep.google.com/)
 * [Notable PDF](http://notablepdf.com/)
 * [Papier](https://getpapier.com)
@@ -322,13 +322,14 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [TeamViewer](http://www.teamviewer.com/en/index.aspx)
 
 ### RSS Tools
-* [Feedly](http://feedly.com) **(Editor's Choice)**
+* [Feedly](http://feedly.com)
 * [FlowReader](http://flowreader.com/)
 
 ### Screen Recording
 * [Adobe Presenter](http://www.adobe.com/products/presenter.html)
 * [Camtasia](http://www.techsmith.com/download/camtasia/)
-* [Office Mix](http://mix.office.com/) **(Editor's Choice)**
+* [Office Mix](http://mix.office.com/)
+* [Opentest](https://www.opentest.co)
 * [PixiClip](http://www.pixiclip.com/beta/)
 * [Quickcast](http://quickcast.io)
 * [Screencast](http://screencast.com/)
