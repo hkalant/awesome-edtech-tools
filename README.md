@@ -328,6 +328,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Screen Recording
 * [Adobe Presenter](http://www.adobe.com/products/presenter.html)
 * [Camtasia](http://www.techsmith.com/download/camtasia/)
+* [Gyazo](https://gyazo.com)
 * [Office Mix](http://mix.office.com/)
 * [Opentest](https://www.opentest.co)
 * [PixiClip](http://www.pixiclip.com/beta/)
