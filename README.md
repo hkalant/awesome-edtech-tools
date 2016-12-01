@@ -353,6 +353,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Pictaculous](http://www.pictaculous.com/)
 * [Place it](https://placeit.net/)
 * [Linkpack](http://linkpack.io)
+* [Quotes Cover](https://quotescover.com)
 
 ### Video Authoring/Editing
 * [Magisto](http://www.magisto.com/)
