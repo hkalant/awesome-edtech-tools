@@ -155,7 +155,9 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [WebEx](http://www.webex.com/)
 
 ### Image Creation
+* [Fotor](http://www.fotor.com/)
 * [Pablo](http://buffer.com/pablo) *by Buffer*
+* [Pixlr](https://pixlr.com/)
 * [Recite This](http://www.recitethis.com/)
 * [Squarespace Logo](http://www.squarespace.com/logo/)
 * [Withoomph](http://withoomph.com/)
