@@ -94,6 +94,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Content Creation
 * [Adobe Spark](https://spark.adobe.com/)
+* [Visage](https://visage.co/)
 
 ### Content Curation
 * [eduClipper](http://educlipper.net/)
