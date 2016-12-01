@@ -350,6 +350,8 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Tagboard](https://tagboard.com/)
 
 ### Utilities
+* [Pictaculous](http://www.pictaculous.com/)
+* [Place it](https://placeit.net/)
 * [Linkpack](http://linkpack.io)
 
 ### Video Authoring/Editing
