@@ -278,6 +278,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Life of Pix](http://www.lifeofpix.com/)
 * [Little Visuals](http://littlevisuals.co/)
 * [Magdeleine](http://magdeleine.co/browse/)
+* [Makerbook](http://makerbook.net)
 * [MMT](http://mmt.li/)
 * [MorgueFile](http://morguefile.com/)
 * [Moveast](http://moveast.me)
