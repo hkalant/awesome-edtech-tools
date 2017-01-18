@@ -316,6 +316,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Prezi](http://prezi.com/)
 * [Slideshare](http://www.slideshare.net/)
 * [Speaker Deck](http://speakerdeck.com/)
+* [WebSlides](https://webslides.tv)
 
 ### Publishing Platforms
 * [Edublogs](http://edublogs.org/)
