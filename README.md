@@ -394,4 +394,6 @@ Add your own tools/resources by [issuing a pull request](https://github.com/hkal
 Available under the [CC0 licence](http://creativecommons.org/publicdomain/zero/1.0/).
 
 ---
-#### More awesome lists: [Awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
+## More Awesomeness 
+* [Awesome](https://github.com/sindresorhus/awesome) — A curated list of awesome lists
+* [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) — A collection of links for free stock photography, video and Illustration websites
