@@ -54,6 +54,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Accessibility
 * [Colorable](https://colorable.jxnblk.com)
+* [WAVE](http://wave.webaim.org)
 
 ### Chart Tools
 * [Beam](https://venngage.com/beam/)
