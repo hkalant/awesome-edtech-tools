@@ -157,6 +157,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [WebEx](http://www.webex.com/)
 
 ### Image Creation
+* [Canva](https://www.canva.com)
 * [Fotor](http://www.fotor.com/)
 * [Pablo](http://buffer.com/pablo) *by Buffer*
 * [Pixlr](https://pixlr.com/)
@@ -165,7 +166,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Withoomph](http://withoomph.com/)
 
 ### Infographics Tools
-* [Canva](https://www.canva.com)
 * [Easelly](http://www.easel.ly)
 * [Infogram](https://infogr.am)
 * [Piktochart](http://piktochart.com)
