@@ -54,6 +54,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Accessibility
 * [Colorable](https://colorable.jxnblk.com)
+* [High Contrast](https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph?hl=en) *(Chrome Extension)*
 * [WAVE](http://wave.webaim.org)
 
 ### Chart Tools
