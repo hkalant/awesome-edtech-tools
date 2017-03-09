@@ -16,6 +16,7 @@
     * [Educational Networks](#educational-networks)
     * [Educational Scenarios](#educational-scenarios)
     * [E-learning Authoring Tools](#e-learning-authoring-tools)
+    * [Electronic Voting](#electronic-voting)
     * [Forms/Surveys](#formssurveys)
     * [Group Communication](#group-communication)
     * [Image Creation](#image-creation)
@@ -134,6 +135,11 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [eXe](http://exelearning.net)
 * [H5P](https://h5p.org)
 * [Lectora](http://trivantis.com/products/inspire-e-learning-software/)
+
+### Electronic Voting
+* [Mentimeter](https://www.mentimeter.com/)
+* [Poll Everywhere](https://www.polleverywhere.com)
+* [Socrative](https://www.socrative.com)
 
 ### Forms/Surveys
 * [Google Forms](http://www.google.com/google-d-s/createforms.html)
