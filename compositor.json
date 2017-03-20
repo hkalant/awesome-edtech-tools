@@ -48,8 +48,8 @@
     },
     {
       "component": "header",
-      "heading": "awesome-edtech-tools",
-      "subhead": "An ongoing curated list with great tools and resources for educators and virtual teachers.",
+      "heading": "Awesome Educational Technology Tools",
+      "subhead": "An ongoing curated list with great tools and resources for learning technologists and virtual teachers.",
       "children": [
         {
           "component": "ui/TweetButton",
