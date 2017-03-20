@@ -1,5 +1,3 @@
-# Awesome Educational Technology Tools
-
 ## Table of Contents
 
   * [Introduction](#user-content-introduction)
