@@ -7,29 +7,84 @@
   "title": "Awesome Edtech Tools",
   "branch": "",
   "style": {
-    "name": "Swiss",
+    "name": "Default",
     "componentSet": {
       "nav": "nav/BasicNav",
-      "header": "header/SwissHeader",
-      "article": "article/SwissArticle",
+      "header": "header/BannerHeader",
+      "article": "article/BasicArticle",
       "footer": "footer/BasicFooter"
     },
-    "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "fontFamily": "-apple-system, BlinkMacSystemFont, sans-serif",
+    "fontWeight": 400,
+    "bold": 600,
+    "lineHeight": 1.5,
+    "typeScale": [
+      72,
+      48,
+      24,
+      20,
+      16,
+      14,
+      12
+    ],
+    "monospace": "Menlo, monospace",
     "heading": {
-      "fontWeight": 700,
-      "letterSpacing": "-0.01em"
+      "fontFamily": null,
+      "fontStyle": null,
+      "fontWeight": 600,
+      "lineHeight": 1.25,
+      "textTransform": null,
+      "letterSpacing": null
     },
+    "h0": {},
+    "h1": {},
+    "h2": {},
+    "h3": {},
+    "h4": {},
+    "h5": {},
+    "h6": {},
+    "alternativeText": {},
+    "space": [
+      0,
+      8,
+      16,
+      32,
+      48,
+      64,
+      96
+    ],
     "layout": {
-      "fluid": true
+      "maxWidth": 1024,
+      "centered": false
     },
     "colors": {
-      "text": "#000",
+      "text": "#111",
       "background": "#fff",
-      "primary": "#05a",
-      "secondary": "#444",
-      "highlight": "#f30",
-      "border": "#ccc",
+      "primary": "#08e",
+      "secondary": "#059",
+      "highlight": "#e08",
+      "border": "#ddd",
       "muted": "#eee"
+    },
+    "border": {
+      "width": 1,
+      "radius": 2
+    },
+    "link": {},
+    "button": {
+      "hover": {
+        "boxShadow": "inset 0 0 0 999px rgba(0, 0, 0, .125)"
+      }
+    },
+    "input": {},
+    "body": {
+      "margin": 0
+    },
+    "breakpoints": {
+      "xs": "@media screen and (max-width:40em)",
+      "sm": "@media screen and (min-width:40em)",
+      "md": "@media screen and (min-width:52em)",
+      "lg": "@media screen and (min-width:64em)"
     }
   },
   "content": [
