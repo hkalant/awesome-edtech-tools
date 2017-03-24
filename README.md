@@ -320,6 +320,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Presentation Tools
 * [Google Slides](http://slides.google.com)
 * [Prezi](http://prezi.com/)
+* [Slide Presenter](https://slidepresenter.com/en/)
 * [Slideshare](http://www.slideshare.net/)
 * [Speaker Deck](http://speakerdeck.com/)
 * [WebSlides](https://webslides.tv)
