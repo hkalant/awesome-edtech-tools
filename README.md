@@ -163,6 +163,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Image Creation
 * [Canva](https://www.canva.com)
 * [Fotor](http://www.fotor.com/)
+* [Gravit](https://gravit.io/)
 * [Pablo](http://buffer.com/pablo) *by Buffer*
 * [Pixlr](https://pixlr.com/)
 * [Recite This](http://www.recitethis.com/)
