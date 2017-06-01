@@ -241,7 +241,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Online Collaboration
 * [Calendly](https://calendly.com)
-* [Canvas](https://usecanvas.com)
 * [Timezone.io](https://timezone.io/)
 
 ### Photo Manipulation
