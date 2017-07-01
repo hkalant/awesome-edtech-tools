@@ -164,7 +164,8 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Canva](https://www.canva.com)
 * [Crello](https://crello.com)
 * [Fotor](http://www.fotor.com/)
-* [Gravit](https://gravit.io/)
+* [Gravit Designer](https://designer.io)
+* [Klex](https://klex.io)
 * [Pablo](http://buffer.com/pablo) *by Buffer*
 * [Pixlr](https://pixlr.com/)
 * [Recite This](http://www.recitethis.com/)
