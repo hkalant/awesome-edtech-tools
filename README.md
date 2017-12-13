@@ -233,6 +233,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Papier](https://getpapier.com)
 * [Quip](https://quip.com/)
 * [Simplenote](http://simplenote.com/)
+* [Taskade](https://taskade.com/)
 * [Workflowy](https://workflowy.com/)
 
 ### Office Tools
