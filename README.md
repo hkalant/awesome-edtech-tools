@@ -348,11 +348,12 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Adobe Presenter](http://www.adobe.com/products/presenter.html)
 * [Camtasia](http://www.techsmith.com/download/camtasia/)
 * [Gyazo](https://gyazo.com)
-* [Office Mix](http://mix.office.com/)
+* [Kap](https://getkap.co) (macOS only)
 * [Opentest](https://www.opentest.co)
 * [PixiClip](http://www.pixiclip.com/beta/)
 * [Quickcast](http://quickcast.io)
 * [Screenmailer](http://www.screenmailer.com)
+* [Snagit](https://www.techsmith.com/screen-capture.html)
 
 ### Social Networking
 * [Buffer](http://bufferapp.com/)
