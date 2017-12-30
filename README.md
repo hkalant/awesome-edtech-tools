@@ -352,7 +352,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Opentest](https://www.opentest.co)
 * [PixiClip](http://www.pixiclip.com/beta/)
 * [Quickcast](http://quickcast.io)
-* [Screencast](http://screencast.com/)
 * [Screenmailer](http://www.screenmailer.com)
 
 ### Social Networking
