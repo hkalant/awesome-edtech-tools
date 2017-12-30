@@ -40,7 +40,7 @@
     * [Web Annotation](#web-annotation)
     * [Web Authoring](#web-authoring)
     * [Whiteboard Tools](#whiteboard-tools)
-  * [What's Next](#whats-next)
+  * [What's Next](#what-to-do-next)
   * [Licence](#licence)
 
 ## Introduction
