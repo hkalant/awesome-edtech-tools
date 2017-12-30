@@ -151,14 +151,14 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Group Communication
 * [Adobe Connect](http://www.adobe.com/products/adobeconnect.html)
+* [Appear.in](http://appear.in)
 * [Blackboard Collaborate](http://www.blackboard.com/platforms/collaborate/overview.aspx)
-* [ClassInteract](http://www.watchitoo.com/classinteract/)
 * [Google Hangouts](http://www.google.com/+/learnmore/hangouts/)
+* [GoToMeeting](http://gotomeeting.com)
 * [Sameroom](https://sameroom.io)
 * [Skype](http://skype.com/)
 * [Slack](http://slack.com)
 * [SlackEDU](http://www.slackedu.net)
-* [Voxopop](http://www.voxopop.com/)
 * [WebEx](http://www.webex.com/)
 
 ### Image Creation
