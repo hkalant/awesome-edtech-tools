@@ -394,11 +394,9 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ## What to do next
 
-Star the repo to help ensure it is maintained.
-
-[Tweet this repo](https://twitter.com/intent/tweet?related=hkalant&text=Educational tools and resources for educators and virtual teachers&url=https%3A%2F%2Fgithub.com%2Fhkalant%2FEducationalToolsResources&via=hkalant) so that more people discover it and add to it.
-
-Add your own tools/resources by [issuing a pull request](https://github.com/hkalant/EducationalToolsResources/pulls).
+* Star the repo.
+* Tweet about this repo so that more people discover it and add to it.
+* Add your own tools/resources by [issuing a pull request](https://github.com/hkalant/EducationalToolsResources/pulls).
 
 ## Licence
 Available under the [CC0 licence](http://creativecommons.org/publicdomain/zero/1.0/).
