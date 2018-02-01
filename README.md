@@ -350,6 +350,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Camtasia](http://www.techsmith.com/download/camtasia/)
 * [Gyazo](https://gyazo.com)
 * [Kap](https://getkap.co) (macOS only)
+* [Loom](https://www.useloom.com/)
 * [Opentest](https://www.opentest.co)
 * [PixiClip](http://www.pixiclip.com/beta/)
 * [Quickcast](http://quickcast.io)
