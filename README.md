@@ -323,6 +323,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_page)
 
 ### Podcasting
+* [Audacity](https://www.audacityteam.org/) *(for audio recoridng and editing)*
 * [Castbox](https://castbox.fm/)
 * [Podiant](https://podiant.co/)
 * [Zencastr](https://zencastr.com/)
