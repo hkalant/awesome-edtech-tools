@@ -130,7 +130,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Twinery](http://twinery.org)
 
 ### E-learning Authoring Tools
-* [Adapt](https://community.adaptlearning.org)
+* [Adapt](https://www.adaptlearning.org)
 * [Adobe Captivate](http://www.adobe.com/uk/products/captivate.html)
 * [Articulate Storyline](https://www.articulate.com/products/storyline-why.php)
 * [eXe](http://exelearning.net)
