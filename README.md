@@ -28,6 +28,7 @@
     * [Online Collaboration](#online-collaboration)
     * [Photo Manipulation](#photo-manipulation)
     * [Photo Resources](#photo-resources)
+    * [Podcasting](#podcasting)
     * [Presentation Tools](#presentation-tools)
     * [Publishing Platforms](#publishing-platforms)
     * [Remote Collaboration](#remote-collaboration)
@@ -320,6 +321,11 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Trunklog](http://trunklog.com/)
 * [Unsplash](http://unsplash.com/)
 * [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_page)
+
+### Podcasting
+* [Castbox](https://castbox.fm/)
+* [Podiant](https://podiant.co/)
+* [Zencastr](https://zencastr.com/)
 
 ### Presentation Tools
 * [Google Slides](http://slides.google.com)
