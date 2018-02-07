@@ -325,6 +325,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Podcasting
 * [Audacity](https://www.audacityteam.org/) *(for audio recording and editing)*
 * [Castbox](https://castbox.fm/)
+* [Farrago](https://rogueamoeba.com/farrago/)
 * [Podiant](https://podiant.co/)
 * [Zencastr](https://zencastr.com/)
 
