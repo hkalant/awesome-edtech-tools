@@ -324,9 +324,15 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Podcasting
 * [Audacity](https://www.audacityteam.org/) *(for audio recording and editing)*
+* [Audioboom](https://audioboom.com/)
 * [Castbox](https://castbox.fm/)
 * [Farrago](https://rogueamoeba.com/farrago/)
+* [Omnystudio](https://omnystudio.com)
 * [Podiant](https://podiant.co/)
+* [Podomatic](https://www.podomatic.com/)
+* [Simplecast](https://simplecast.com/)
+* [Spreaker](https://www.spreaker.com/)
+* [Whooshkaa](https://www.whooshkaa.com/)
 * [Zencastr](https://zencastr.com/)
 
 ### Presentation Tools
