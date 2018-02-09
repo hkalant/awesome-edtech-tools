@@ -370,6 +370,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Quickcast](http://quickcast.io)
 * [Screenmailer](http://www.screenmailer.com)
 * [Snagit](https://www.techsmith.com/screen-capture.html)
+* [Soapbox](https://wistia.com/soapbox)
 
 ### Social Networking
 * [Buffer](http://bufferapp.com/)
