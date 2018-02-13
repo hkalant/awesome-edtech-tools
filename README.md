@@ -132,7 +132,8 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### E-learning Authoring Tools
 * [Adapt](https://www.adaptlearning.org)
 * [Adobe Captivate](http://www.adobe.com/uk/products/captivate.html)
-* [Articulate Storyline](https://www.articulate.com/products/storyline-why.php)
+* [Articulate 360](https://articulate.com/360)
+* [Evolve Authoring](https://www.evolveauthoring.com/)
 * [eXe](http://exelearning.net)
 * [H5P](https://h5p.org)
 * [Lectora](http://trivantis.com/products/inspire-e-learning-software/)
