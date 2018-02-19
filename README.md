@@ -330,6 +330,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Farrago](https://rogueamoeba.com/farrago/)
 * [Omnystudio](https://omnystudio.com)
 * [Podiant](https://podiant.co/)
+* [Podigee](https://www.podigee.com/en/)
 * [Podomatic](https://www.podomatic.com/)
 * [Simplecast](https://simplecast.com/)
 * [Spreaker](https://www.spreaker.com/)
