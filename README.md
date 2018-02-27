@@ -132,6 +132,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### E-learning Authoring Tools
 * [Adapt](https://www.adaptlearning.org)
 * [Adobe Captivate](http://www.adobe.com/uk/products/captivate.html)
+* [Adobe Presenter](http://www.adobe.com/products/presenter.html)
 * [Articulate 360](https://articulate.com/360)
 * [Evolve Authoring](https://www.evolveauthoring.com/)
 * [eXe](http://exelearning.net)
@@ -362,7 +363,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [FlowReader](http://flowreader.com/)
 
 ### Screen Recording
-* [Adobe Presenter](http://www.adobe.com/products/presenter.html)
 * [Camtasia](http://www.techsmith.com/download/camtasia/)
 * [Gyazo](https://gyazo.com)
 * [Kap](https://getkap.co) (macOS only)
