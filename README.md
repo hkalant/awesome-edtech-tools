@@ -178,6 +178,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Withoomph](http://withoomph.com/)
 
 ### Infographics Tools
+* [Adioma](https://adioma.com)
 * [Easelly](http://www.easel.ly)
 * [Infogram](https://infogr.am)
 * [Piktochart](http://piktochart.com)
