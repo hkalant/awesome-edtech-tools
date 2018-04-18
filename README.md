@@ -282,7 +282,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Getrefe](http://getrefe.tumblr.com/)
 * [Good Free Photos](http://www.goodfreephotos.com/)
 * [Gratisography](http://www.gratisography.com/)
-* [icons8 Photos](https://photos.icons8.com/) *(requires attribution)*
 * [Image Free](http://www.imagefree.com/)
 * [iStock](http://www.istockphoto.com/search/lightbox/13454712#1499d1d2) *(provides section with free images)*
 * [IM Free](http://imcreator.com/free) *(requires attribution)*
@@ -295,6 +294,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Magdeleine](http://magdeleine.co/browse/)
 * [Makerbook](http://makerbook.net)
 * [MMT](http://mmt.li/)
+* [Moose](https://photos.icons8.com/) by icons8.com *(requires attribution)*
 * [MorgueFile](http://morguefile.com/)
 * [Moveast](http://moveast.me)
 * [Mystock.photos](http://mystock.photos)
