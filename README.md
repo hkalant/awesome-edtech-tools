@@ -53,6 +53,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ## The List
 
 ### Accessibility
+* [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/)
 * [Colorable](https://colorable.jxnblk.com)
 * [Contrast](https://usecontrast.com)
 * [High Contrast](https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph?hl=en) *(Chrome Extension)*
