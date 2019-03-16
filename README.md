@@ -247,6 +247,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [LibreOffice](http://www.libreoffice.org/)
 * [Microsoft Office](http://office.microsoft.com/)
 * [Microsoft Office Web Apps](https://office.com/)
+* [Notion](https://www.notion.so/?r=cd76e1046abe459b8d15aa7f0dbae3f5)
 * [OpenOffice](http://www.openoffice.org/)
 
 ### Online Collaboration
