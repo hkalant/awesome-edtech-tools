@@ -17,6 +17,7 @@
     * [Electronic Voting](#electronic-voting)
     * [Forms/Surveys](#formssurveys)
     * [Group Communication](#group-communication)
+    * [Icons](#icons)
     * [Image Creation](#image-creation)
     * [Infographics Tools](#infographics-tools)
     * [Knowledge Tracking/Wiki](#knowledge-trackingwiki)
@@ -165,6 +166,10 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Slack](http://slack.com)
 * [SlackEDU](http://www.slackedu.net)
 * [WebEx](http://www.webex.com/)
+
+### Icons
+* [Icons8](https://icons8.com/)
+* [Undraw](https://undraw.co/)
 
 ### Image Creation
 * [Canva](https://www.canva.com)
