@@ -19,6 +19,7 @@
     * [Group Communication](#group-communication)
     * [Icons](#icons)
     * [Image Creation](#image-creation)
+    * [Image Editing](#image-editing)
     * [Infographics Tools](#infographics-tools)
     * [Knowledge Tracking/Wiki](#knowledge-trackingwiki)
     * [Learning Management Systems](#learning-management-systems)
@@ -182,6 +183,9 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Recite This](http://www.recitethis.com/)
 * [Squarespace Logo](http://www.squarespace.com/logo/)
 * [Withoomph](http://withoomph.com/)
+
+### Image Editing
+* [Doka](https://doka.photo/)
 
 ### Infographics Tools
 * [Adioma](https://adioma.com)
