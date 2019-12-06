@@ -61,6 +61,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [High Contrast](https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph?hl=en) *(Chrome Extension)*
 * [Randoma11y](https://randoma11y.com/)
 * [WAVE](http://wave.webaim.org)
+* [Who can use](http://whocanuse.com)
 
 ### Chart Tools
 * [Beam](https://venngage.com/beam/)
