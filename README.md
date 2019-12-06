@@ -66,6 +66,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Chart Tools
 * [Beam](https://venngage.com/beam/)
 * [Creately](http://creately.com/)
+* [Gantt](https://www.gantt.io)
 * [Gliffy](http://www.gliffy.com/)
 * [Google Charts](https://developers.google.com/chart/)
 * [Lucid Chart](http://www.lucidchart.com/)
