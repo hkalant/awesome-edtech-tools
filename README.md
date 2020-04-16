@@ -24,7 +24,6 @@
     * [Knowledge Tracking/Wiki](#knowledge-trackingwiki)
     * [Learning Management Systems](#learning-management-systems)
     * [Massive Open Online Courses](#massive-open-online-courses)
-    * [Music Composition](#music-composition)
     * [Notes](#notes)
     * [Office Tools](#office-tools)
     * [Online Collaboration](#online-collaboration)
@@ -242,9 +241,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Udemy](http://www.udemy.com/)
 * [edX](http://www.edx.org/)
 * [WizIQ](http://www.wiziq.com/)
-
-### Music Composition
-
 
 ### Notes
 * [Etherpad](http://etherpad.org/)
