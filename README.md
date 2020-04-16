@@ -187,6 +187,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Image Editing
 * [Doka](https://doka.photo/)
+* [Squoosh](https://squoosh.app)
 
 ### Infographics Tools
 * [Adioma](https://adioma.com)
