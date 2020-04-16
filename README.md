@@ -379,15 +379,21 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Screen Recording
 * [Camtasia](http://www.techsmith.com/download/camtasia/)
+* [Capto](https://www.globaldelight.com/capto/) (macOS only)
 * [Gyazo](https://gyazo.com)
+* [iOS built-in screen recorder](https://support.apple.com/en-gb/HT207935)
 * [Kap](https://getkap.co) (macOS only)
-* [Loom](https://www.useloom.com/)
-* [Opentest](https://www.opentest.co)
-* [PixiClip](http://www.pixiclip.com/beta/)
-* [Quickcast](http://quickcast.io)
+* [Loom](https://www.loom.com/)
+* [macOS built-in screen recorder](https://support.apple.com/en-gb/HT208721#mojave)
+* [Microsoft PowerPoint 365](https://support.office.com/en-gb/article/record-your-screen-in-powerpoint-0b4c3f65-534c-4cf1-9c59-402b6e9d79d0)
+* [Open Broadcast Software (OBS)](https://obsproject.com)
+* [Screencast-O-Matic](https://screencast-o-matic.com)
+* [Screencastify](https://www.screencastify.com)
+* [ScreenFlow](http://www.telestream.net/screenflow/overview.htm)
 * [Screenmailer](http://www.screenmailer.com)
 * [Snagit](https://www.techsmith.com/screen-capture.html)
 * [Soapbox](https://wistia.com/soapbox)
+* [Techsmith Capture](https://apps.apple.com/us/app/techsmith-capture/id1266321056) (iOS only)
 
 ### Social Networking
 * [Buffer](http://bufferapp.com/)
