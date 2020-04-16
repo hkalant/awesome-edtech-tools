@@ -159,7 +159,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Group Communication
 * [Adobe Connect](http://www.adobe.com/products/adobeconnect.html)
-* [Appear.in](http://appear.in)
 * [Blackboard Collaborate](http://www.blackboard.com/platforms/collaborate/overview.aspx)
 * [Google Hangouts](http://www.google.com/+/learnmore/hangouts/)
 * [GoToMeeting](http://gotomeeting.com)
@@ -168,6 +167,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Slack](http://slack.com)
 * [SlackEDU](http://www.slackedu.net)
 * [WebEx](http://www.webex.com/)
+* [Whereby](https://whereby.com)
 
 ### Icons
 * [Icons8](https://icons8.com/)
