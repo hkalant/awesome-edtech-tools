@@ -201,6 +201,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Visual.ly](http://visual.ly/)
 
 ### Knowledge Tracking/Wiki
+* [Notion](https://www.notion.so/?r=cd76e1046abe459b8d15aa7f0dbae3f5)
 * [PBWorks](http://www.pbworks.com/education.html)
 * [SlimWiki](http://slimwiki.com/)
 * [Wikispaces](http://www.wikispaces.com/)
@@ -243,13 +244,13 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [WizIQ](http://www.wiziq.com/)
 
 ### Music Composition
-* [Jukedeck](https://www.jukedeck.com/?invite=2c0fbb79f087b1dc2f0eaf4590d56948cec0295422adab7147c9167a0de7b948)
+
 
 ### Notes
 * [Etherpad](http://etherpad.org/)
 * [Evernote](https://www.evernote.com/referral/Registration.action?uid=21458963&sig=3b01fad8ef1fb251925d4a28e5ad8b30)
 * [Google Keep](http://keep.google.com/)
-* [Notable PDF](http://notablepdf.com/)
+* [Notion](https://www.notion.so/?r=cd76e1046abe459b8d15aa7f0dbae3f5)
 * [Papier](https://getpapier.com)
 * [Quip](https://quip.com/)
 * [Simplenote](http://simplenote.com/)
