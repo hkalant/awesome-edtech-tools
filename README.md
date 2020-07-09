@@ -160,16 +160,14 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Group Communication
 * [Adobe Connect](http://www.adobe.com/products/adobeconnect.html)
 * [Blackboard Collaborate](http://www.blackboard.com/platforms/collaborate/overview.aspx)
-* [Google Hangouts](https://hangouts.google.com)
+* [Google Chat](https://chat.google.com)
 * [Google Meet](https://meet.google.com)
 * [GoToMeeting](http://gotomeeting.com)
 * [Jitsi](http://meet.jit.si)
-* [Sameroom](https://sameroom.io)
 * [Skype](http://skype.com/)
 * [Skype Free Conference Calls](https://www.skype.com/en/free-conference-call/) (no account or download needed)
 * [Slack](http://slack.com)
-* [SlackEDU](http://www.slackedu.net)
-* [WebEx](http://www.webex.com/)
+* [Webex](http://www.webex.com/)
 * [Whereby](https://whereby.com)
 
 ### Icons
