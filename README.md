@@ -171,7 +171,13 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Whereby](https://whereby.com)
 
 ### Icons
+* [Bootstrap icons](https://icons.getbootstrap.com)
+* [Dripicons](https://designerfuel.tumblr.com/post/141385060889/dripicons-v2-free-iconset-available-formats)
+* [Feather icons](https://feathericons.com)
 * [Icons8](https://icons8.com/)
+* [Ionicons](https://ionicons.com)
+* [Ikons](http://ikons.piotrkwiatkowski.co.uk)
+* [Material Design icons](https://material.io/resources/icons/)
 * [Undraw](https://undraw.co/)
 
 ### Image Creation
