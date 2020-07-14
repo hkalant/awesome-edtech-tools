@@ -342,10 +342,12 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Wikimedia Commons](http://commons.wikimedia.org/wiki/Main_page)
 
 ### Podcasting
+* [Anchor](https://anchor.fm)
 * [Audacity](https://www.audacityteam.org/) *(for audio recording and editing)*
 * [Audioboom](https://audioboom.com/)
 * [Castbox](https://castbox.fm/)
 * [Farrago](https://rogueamoeba.com/farrago/)
+* [Listnr](https://www.listnr.tech)
 * [Omnystudio](https://omnystudio.com)
 * [Podiant](https://podiant.co/)
 * [Podigee](https://www.podigee.com/en/)
