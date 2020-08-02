@@ -170,8 +170,10 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Icons
 * [Bootstrap icons](https://icons.getbootstrap.com)
+* [Boxicons](https://boxicons.com)
 * [Dripicons](https://designerfuel.tumblr.com/post/141385060889/dripicons-v2-free-iconset-available-formats)
 * [Feather icons](https://feathericons.com)
+* [Heroicons](https://heroicons.dev)
 * [Icons8](https://icons8.com/)
 * [Ionicons](https://ionicons.com)
 * [Ikons](http://ikons.piotrkwiatkowski.co.uk)
