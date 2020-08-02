@@ -122,8 +122,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Seesaw](http://web.seesaw.me)
 
 ### Digital Storytelling
-* [Atavist](https://atavist.com)
-* [Interlude Treehouse](https://interlude.fm/treehouse)
 * [Sway](https://sway.com)
 
 ### Educational Networks
