@@ -122,7 +122,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Seesaw](http://web.seesaw.me)
 
 ### Digital Storytelling
-* [Sway](https://sway.com)
+* [Sway](https://sway.office.com)
 
 ### Educational Networks
 * [Discovery Education](http://www.discoveryeducation.com/)
