@@ -208,7 +208,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Notion](https://www.notion.so/?r=cd76e1046abe459b8d15aa7f0dbae3f5)
 * [PBWorks](http://www.pbworks.com/education.html)
 * [SlimWiki](http://slimwiki.com/)
-* [Wikispaces](http://www.wikispaces.com/)
 
 ### Learning Management Systems
 * [Absorb](http://www.absorblms.com/)
