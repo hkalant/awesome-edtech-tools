@@ -352,6 +352,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Podiant](https://podiant.co/)
 * [Podigee](https://www.podigee.com/en/)
 * [Podomatic](https://www.podomatic.com/)
+* [Podpage](https://www.podpage.com/)
 * [Simplecast](https://simplecast.com/)
 * [Spreaker](https://www.spreaker.com/)
 * [Whooshkaa](https://www.whooshkaa.com/)
