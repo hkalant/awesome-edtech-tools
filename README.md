@@ -96,6 +96,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Treehouse Club](http://teamtreehouse.com/library/treehouse-club-html)
 
 ### Community Tools
+* [Circle](https://circle.so/)
 * [Discourse](http://www.discourse.org/)
 * [Disqus](http://www.disqus.com/)
 * [Muut](http://muut.com/)
