@@ -26,6 +26,7 @@
     * [Massive Open Online Courses](#massive-open-online-courses)
     * [Notes](#notes)
     * [Office Tools](#office-tools)
+    * [Offline Learning](#offline-learning)
     * [Online Collaboration](#online-collaboration)
     * [Photo Manipulation](#photo-manipulation)
     * [Photo Resources](#photo-resources)
@@ -220,6 +221,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [eFront](http://efrontlearning.net/)
 * [Google Classroom](https://classroom.google.com)
 * [Knowable](https://knowable.fyi/)
+* [Kolibri](https://learningequality.org/kolibri/)
 * [LifterLMS](https://lifterlms.com/)
 * [My Learning Space](http://www.mylearningspace.com.au/)
 * [Moodle](http://moodle.org/)
@@ -263,6 +265,9 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Microsoft Office Web Apps](https://office.com/)
 * [Notion](https://www.notion.so/?r=cd76e1046abe459b8d15aa7f0dbae3f5)
 * [OpenOffice](http://www.openoffice.org/)
+
+### Offline Learning
+* [Kolibri](https://learningequality.org/kolibri/)
 
 ### Online Collaboration
 * [Calendly](https://calendly.com)
@@ -435,6 +440,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Weld](https://www.weld.io)
 
 ### Whiteboard Tools
+* [Openboard](http://openboard.ch/)
 * [Realtime Board](https://realtimeboard.com)
 * [Sketchboard](https://sketchboard.io)
 * [Witeboard](https://witeboard.com/)
