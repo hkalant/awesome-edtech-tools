@@ -3,6 +3,7 @@
   * [Introduction](#user-content-introduction)
   * [The List](#the-list)
     * [Accessibility](#accessibility)
+    * [Bookmarks of Educational Resources](#bookmarks)
     * [Chart Tools](#chart-tools)
     * [Cloud Storage](#cloud-storage)
     * [Coding/Programming Schools](#codingprogramming-schools)
@@ -62,6 +63,9 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Userway](https://userway.org)
 * [WAVE](http://wave.webaim.org)
 * [Who can use](http://whocanuse.com)
+
+### Bookmarks
+* [Bookmarks or useful resources for Teaching/Learning](https://j.mp/edu-reso)
 
 ### Chart Tools
 * [Beam](https://venngage.com/beam/)
