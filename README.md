@@ -170,15 +170,18 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Whereby](https://whereby.com)
 
 ### Icons
+* [Blush Illustrations](https://blush.design/)
 * [Bootstrap icons](https://icons.getbootstrap.com)
 * [Boxicons](https://boxicons.com)
 * [Dripicons](https://designerfuel.tumblr.com/post/141385060889/dripicons-v2-free-iconset-available-formats)
 * [Feather icons](https://feathericons.com)
 * [Heroicons](https://heroicons.dev)
+* [Humaaans](https://www.humaaans.com/)
 * [Icons8](https://icons8.com/)
 * [Ionicons](https://ionicons.com)
 * [Ikons](http://ikons.piotrkwiatkowski.co.uk)
 * [Material Design icons](https://material.io/resources/icons/)
+* [SystemUI icons](https://systemuicons.com)
 * [Tabler icons](https://tablericons.com)
 * [Undraw](https://undraw.co/)
 
