@@ -347,9 +347,10 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Podcasting
 * [Anchor](https://anchor.fm)
-* [Audacity](https://www.audacityteam.org/) *(for audio recording and editing)*
+* [Audacity](https://www.audacityteam.org/)
 * [Audioboom](https://audioboom.com/)
 * [Castbox](https://castbox.fm/)
+* [Castos](https://castos.com/)
 * [Farrago](https://rogueamoeba.com/farrago/)
 * [Listnr](https://www.listnr.tech)
 * [Omnystudio](https://omnystudio.com)
