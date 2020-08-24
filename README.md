@@ -21,7 +21,6 @@
     * [Image Creation](#image-creation)
     * [Image Editing](#image-editing)
     * [Infographics Tools](#infographics-tools)
-    * [Knowledge Tracking/Wiki](#knowledge-trackingwiki)
     * [Learning Management Systems](#learning-management-systems)
     * [Massive Open Online Courses](#massive-open-online-courses)
     * [Notes](#notes)
@@ -42,6 +41,7 @@
     * [Web Annotation](#web-annotation)
     * [Web Authoring](#web-authoring)
     * [Whiteboard Tools](#whiteboard-tools)
+    * [Wiki/Knowledge Tracking](#wikiknowledge-tracking)
   * [What's Next](#what-to-do-next)
   * [Licence](#licence)
 
@@ -209,11 +209,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Venngage](http://venngage.com)
 * [Visual.ly](http://visual.ly/)
 
-### Knowledge Tracking/Wiki
-* [Notion](https://www.notion.so/?r=cd76e1046abe459b8d15aa7f0dbae3f5)
-* [PBWorks](http://www.pbworks.com/education.html)
-* [SlimWiki](http://slimwiki.com/)
-
 ### Learning Management Systems
 * [Absorb](http://www.absorblms.com/)
 * [Blackboard](http://www.blackboard.com/)
@@ -249,10 +244,11 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [WizIQ](http://www.wiziq.com/)
 
 ### Notes
+* [Bear](https://bear.app/)
 * [Etherpad](http://etherpad.org/)
 * [Evernote](https://www.evernote.com/referral/Registration.action?uid=21458963&sig=3b01fad8ef1fb251925d4a28e5ad8b30)
 * [Google Keep](http://keep.google.com/)
-* [Notion](https://www.notion.so/?r=cd76e1046abe459b8d15aa7f0dbae3f5)
+* [Microsoft OneNote](https://www.onenote.com/)
 * [Papier](https://getpapier.com)
 * [Quip](https://quip.com/)
 * [Simplenote](http://simplenote.com/)
@@ -442,6 +438,17 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Realtime Board](https://realtimeboard.com)
 * [Sketchboard](https://sketchboard.io)
 * [Witeboard](https://witeboard.com/)
+
+### Wiki/Knowledge Tracking
+* [Coda](https://coda.io/)
+* [Notion](https://www.notion.so/?r=cd76e1046abe459b8d15aa7f0dbae3f5)
+* [Obsidian](https://obsidian.md/)
+* [PBWorks](http://www.pbworks.com/education.html)
+* [RemNote](https://www.remnote.io/homepage)
+* [Roam Research](https://roamresearch.com/)
+* [SlimWiki](http://slimwiki.com/)
+* [Tettra](https://tettra.com/)
+* [TiddlyWiki](https://tiddlywiki.com/)
 
 ## What to do next
 
