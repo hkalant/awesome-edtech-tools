@@ -106,7 +106,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Visage](https://visage.co/)
 
 ### Content Curation
-* [eduClipper](http://educlipper.net/)
 * [Gibbon](http://gibbon.co/)
 * [Pinterest](http://www.pinterest.com/)
 * [Scoop.it](http://www.scoop.it/)
