@@ -12,7 +12,6 @@
     * [Digital Portfolios](#digital-portfolios)
     * [Digital Storytelling](#digital-storytelling)
     * [Educational Networks](#educational-networks)
-    * [Educational Scenarios](#educational-scenarios)
     * [E-learning Authoring Tools](#e-learning-authoring-tools)
     * [Electronic Voting](#electronic-voting)
     * [Forms/Surveys](#formssurveys)
@@ -127,9 +126,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Educational Networks
 * [Discovery Education](http://www.discoveryeducation.com/)
 * [Scholastic](http://emea.scholastic.com/en)
-
-### Educational Scenarios
-* [Twinery](http://twinery.org)
 
 ### E-learning Authoring Tools
 * [Adapt](https://www.adaptlearning.org)
