@@ -136,6 +136,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [eXe](http://exelearning.net)
 * [H5P](https://h5p.org)
 * [Lectora](http://trivantis.com/products/inspire-e-learning-software/)
+* [Xerte](https://xerte.org.uk/)
 
 ### Electronic Voting
 * [Mentimeter](https://www.mentimeter.com/)
