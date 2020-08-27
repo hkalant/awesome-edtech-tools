@@ -394,6 +394,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [ScreenFlow](http://www.telestream.net/screenflow/overview.htm)
 * [Screenmailer](http://www.screenmailer.com)
 * [Snagit](https://www.techsmith.com/screen-capture.html)
+* [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 * [Soapbox](https://wistia.com/soapbox)
 * [Techsmith Capture](https://apps.apple.com/us/app/techsmith-capture/id1266321056) (iOS only)
 
