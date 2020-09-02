@@ -214,7 +214,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [eFront](http://efrontlearning.net/)
 * [Google Classroom](https://classroom.google.com)
 * [Knowable](https://knowable.fyi/)
-* [Kolibri](https://learningequality.org/kolibri/)
 * [LifterLMS](https://lifterlms.com/)
 * [My Learning Space](http://www.mylearningspace.com.au/)
 * [Moodle](http://moodle.org/)
