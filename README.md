@@ -345,6 +345,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Castos](https://castos.com/)
 * [Farrago](https://rogueamoeba.com/farrago/)
 * [Listnr](https://www.listnr.tech)
+* [Megaphone](https://megaphone.fm/)
 * [Omnystudio](https://omnystudio.com)
 * [Podiant](https://podiant.co/)
 * [Podigee](https://www.podigee.com/en/)
@@ -352,6 +353,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Podpage](https://www.podpage.com/)
 * [Simplecast](https://simplecast.com/)
 * [Spreaker](https://www.spreaker.com/)
+* [Squadcast](https://squadcast.fm/)
 * [Whooshkaa](https://www.whooshkaa.com/)
 * [Zencastr](https://zencastr.com/)
 
