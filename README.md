@@ -26,7 +26,6 @@
     * [Massive Open Online Courses](#massive-open-online-courses)
     * [Notes](#notes)
     * [Office Tools](#office-tools)
-    * [Offline Learning](#offline-learning)
     * [Online Collaboration](#online-collaboration)
     * [Photo Manipulation](#photo-manipulation)
     * [Photo Resources](#photo-resources)
@@ -265,9 +264,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Microsoft Office Web Apps](https://office.com/)
 * [Notion](https://www.notion.so/?r=cd76e1046abe459b8d15aa7f0dbae3f5)
 * [OpenOffice](http://www.openoffice.org/)
-
-### Offline Learning
-* [Kolibri](https://learningequality.org/kolibri/)
 
 ### Online Collaboration
 * [Calendly](https://calendly.com)
