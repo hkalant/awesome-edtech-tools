@@ -187,6 +187,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Fotor](http://www.fotor.com/)
 * [Gravit Designer](https://designer.io)
 * [Klex](https://klex.io)
+* [Looka](https://looka.com)
 * [Pablo](http://buffer.com/pablo) *by Buffer*
 * [Pixlr](https://pixlr.com/)
 * [Recite This](http://www.recitethis.com/)
