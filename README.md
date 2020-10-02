@@ -177,6 +177,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Ionicons](https://ionicons.com)
 * [Ikons](http://ikons.piotrkwiatkowski.co.uk)
 * [Material Design icons](https://material.io/resources/icons/)
+* [Mono Icons](https://icons.mono.company/)
 * [SystemUI icons](https://systemuicons.com)
 * [Tabler icons](https://tablericons.com)
 * [Undraw](https://undraw.co/)
