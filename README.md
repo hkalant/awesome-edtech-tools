@@ -53,6 +53,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ## The List
 
 ### Accessibility
+* [Accessibility Toolkit](https://docs.google.com/document/u/1/d/18xma_O3Yerz4qR1YmuEYaXwkGtEfibeaDijSMTBy4Yg/mobilebasic)
 * [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/)
 * [Colorable](https://colorable.jxnblk.com)
 * [Contrast](https://usecontrast.com)
