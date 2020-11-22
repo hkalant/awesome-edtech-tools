@@ -440,8 +440,8 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Openboard](http://openboard.ch/)
 * [Realtime Board](https://realtimeboard.com)
 * [Sketchboard](https://sketchboard.io)
-* [Witeboard](https://witeboard.com/)
 * [Tableaunoir](https://tableaunoir.github.io)
+* [Witeboard](https://witeboard.com/)
 
 ### Wiki/Knowledge Tracking
 * [Coda](https://coda.io/)
