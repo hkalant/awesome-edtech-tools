@@ -439,6 +439,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Whiteboard Tools
 * [Openboard](http://openboard.ch/)
 * [Realtime Board](https://realtimeboard.com)
+* [Alternative Realtime Board Demo](https://whiteboard.ably.dev )
 * [Sketchboard](https://sketchboard.io)
 * [Tableaunoir](https://tableaunoir.github.io)
 * [Witeboard](https://witeboard.com/)
@@ -467,3 +468,4 @@ Available under the [CC0 licence](http://creativecommons.org/publicdomain/zero/1
 ## More Awesomeness 
 * [Awesome](https://github.com/sindresorhus/awesome) — A curated list of awesome lists
 * [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) — A collection of links for free stock photography, video and Illustration websites
+* [Awesome Whiteboard Demo Code](https://github.com/ably/whiteboard) — Link to code for alternative realtime whiteboard demo for development purposes
