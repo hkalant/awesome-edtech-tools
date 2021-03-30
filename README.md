@@ -244,6 +244,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Notes
 * [Bear](https://bear.app/)
+* [Craft](https://craft.do)
 * [Etherpad](http://etherpad.org/)
 * [Evernote](https://www.evernote.com/referral/Registration.action?uid=21458963&sig=3b01fad8ef1fb251925d4a28e5ad8b30)
 * [Google Keep](http://keep.google.com/)
