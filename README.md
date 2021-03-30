@@ -423,6 +423,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Zaption](http://www.zaption.com/)
 
 ### Video Hosting
+* [Panopto](https:/www.panopto.com)
 * [Vimeo](http://vimeo.com/)
 * [Wistia](http://wistia.com/)
 * [YouTube](http://www.youtube.com/)
