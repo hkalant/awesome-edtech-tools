@@ -174,6 +174,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Feather icons](https://feathericons.com)
 * [Heroicons](https://heroicons.dev)
 * [Humaaans](https://www.humaaans.com/)
+* [Iconic](https://iconic.app)
 * [Icons8](https://icons8.com/)
 * [Iconscout](https://iconscout.com/)
 * [Ionicons](https://ionicons.com)
