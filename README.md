@@ -434,7 +434,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Web Annotation
 * [Genius](https://genius.com/web-annotator)
-* [Highly](https://www.highly.co)
 * [Hypothesis](https://hypothes.is)
 
 ### Web Authoring
