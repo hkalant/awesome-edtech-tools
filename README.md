@@ -221,7 +221,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Google Classroom](https://classroom.google.com)
 * [Knowable](https://knowable.fyi/)
 * [LifterLMS](https://lifterlms.com/)
-* [My Learning Space](https://www.mylearningspace.com.au/)
 * [Moodle](https://moodle.org/)
 * [Podia](https://www.podia.com)
 * [Teachable](https://teachable.com)
