@@ -279,7 +279,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Bara Art](https://www.bara-art.com/)
 * [Barn Images](https://barnimages.com/)
 * [BigFoto](https://www.bigfoto.com/)
-* [Boss Fight](https://bossfight.co/)
 * [Crow The Stone](https://crowthestone.com/)
 * [Cupcake](https://cupcake.nilssonlee.se/)
 * [Death to the Stock Photo](https://join.deathtothestockphoto.com/)
