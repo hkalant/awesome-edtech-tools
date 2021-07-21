@@ -167,6 +167,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Whereby](https://whereby.com)
 
 ### Icons
+* [Black Illustrations](https://www.blackillustrations.com)
 * [Blush Illustrations](https://blush.design/)
 * [Bootstrap icons](https://icons.getbootstrap.com)
 * [Boxicons](https://boxicons.com)
