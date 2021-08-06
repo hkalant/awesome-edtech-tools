@@ -426,6 +426,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Weld](https://www.weld.io)
 
 ### Whiteboard Tools
+* [Excalidraw](https://excalidraw.com/)
 * [Openboard](https://openboard.ch/)
 * [Realtime Board](https://realtimeboard.com)
 * [Sketchboard](https://sketchboard.io)
