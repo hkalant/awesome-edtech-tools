@@ -378,6 +378,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Screen Recording
 * [Camtasia](https://www.techsmith.com/download/camtasia/)
 * [Capto](https://www.globaldelight.com/capto/) (macOS only)
+* [Cleanshot X](https://cleanshot.com/)
 * [Gyazo](https://gyazo.com)
 * [iOS built-in screen recorder](https://support.apple.com/en-gb/HT207935)
 * [Kap](https://getkap.co) (macOS only)
