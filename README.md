@@ -389,7 +389,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Screencast-O-Matic](https://screencast-o-matic.com)
 * [Screencastify](https://www.screencastify.com)
 * [ScreenFlow](https://www.telestream.net/screenflow/overview.htm) (macOS only)
-* [Screenmailer](https://www.screenmailer.com)
 * [Snagit](https://www.techsmith.com/screen-capture.html)
 * [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 * [Soapbox](https://wistia.com/soapbox)
