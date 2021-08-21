@@ -378,7 +378,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Screen Recording
 * [Camtasia](https://www.techsmith.com/download/camtasia/)
 * [Capto](https://www.globaldelight.com/capto/) (macOS only)
-* [Cleanshot X](https://cleanshot.com/)
+* [Cleanshot X](https://cleanshot.com/) (macOS only)
 * [Gyazo](https://gyazo.com)
 * [iOS built-in screen recorder](https://support.apple.com/en-gb/HT207935)
 * [Kap](https://getkap.co) (macOS only)
@@ -388,7 +388,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Open Broadcast Software (OBS)](https://obsproject.com)
 * [Screencast-O-Matic](https://screencast-o-matic.com)
 * [Screencastify](https://www.screencastify.com)
-* [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
+* [ScreenFlow](https://www.telestream.net/screenflow/overview.htm) (macOS only)
 * [Screenmailer](https://www.screenmailer.com)
 * [Snagit](https://www.techsmith.com/screen-capture.html)
 * [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
