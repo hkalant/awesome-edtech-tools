@@ -56,6 +56,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Accessibility Toolkit](https://docs.google.com/document/u/1/d/18xma_O3Yerz4qR1YmuEYaXwkGtEfibeaDijSMTBy4Yg/mobilebasic)
 * [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/)
 * [Colorable](https://colorable.jxnblk.com)
+* [Color Review](https://color.review/)
 * [Contrast](https://usecontrast.com)
 * [High Contrast](https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph?hl=en) *(Chrome Extension)*
 * [Randoma11y](https://randoma11y.com/)
