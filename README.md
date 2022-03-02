@@ -354,6 +354,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Zencastr](https://zencastr.com/)
 
 ### Presentation Tools
+* [DeckDeckGo](https://deckdeckgo.com/)
 * [Google Slides](https://slides.google.com)
 * [Prezi](http://prezi.com/)
 * [Slide Presenter](https://slidepresenter.com/en/)
