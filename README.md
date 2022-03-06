@@ -219,7 +219,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Learning Management Systems
 * [Absorb](https://www.absorblms.com/)
 * [Blackboard](https://www.blackboard.com/)
-* [Canvas LMS](https://www.canvaslms.com/)
+* [Canvas LMS](https://www.instructure.com/canvas)
 * [CourseSites](https://www.coursesites.com) (Based on Blackboard)
 * [Edmodo](https://www.edmodo.com)
 * [eFront](https://efrontlearning.net/)
