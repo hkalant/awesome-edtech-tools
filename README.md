@@ -229,7 +229,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Moodle](https://moodle.org/)
 * [Podia](https://www.podia.com)
 * [Teachable](https://teachable.com)
-* [Totara LMS](https://www.totaralms.com)
+* [Totara LMS](https://www.totaralearning.com/)
 
 ### Massive Open Online Courses
 * [Acade.me](https://acade.me/)
