@@ -182,6 +182,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Iconscout](https://iconscout.com/)
 * [Ionicons](https://ionicons.com)
 * [Ikons](http://ikons.piotrkwiatkowski.co.uk)
+* [Lucide](https://lucide.dev/)
 * [Material Design icons](https://material.io/resources/icons/)
 * [Mono Icons](https://icons.mono.company/)
 * [Phosphor Icons](https://phosphoricons.com/)
