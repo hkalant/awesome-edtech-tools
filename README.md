@@ -174,6 +174,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Boxicons](https://boxicons.com)
 * [Dripicons](https://designerfuel.tumblr.com/post/141385060889/dripicons-v2-free-iconset-available-formats)
 * [Feather icons](https://feathericons.com)
+* [Health icons](https://healthicons.org/)
 * [Heroicons](https://heroicons.dev)
 * [Humaaans](https://www.humaaans.com/)
 * [Iconic](https://iconic.app)
