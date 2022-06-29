@@ -271,6 +271,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Microsoft Office Web Apps](https://office.com/)
 * [Notion](https://www.notion.so/?r=cd76e1046abe459b8d15aa7f0dbae3f5)
 * [OpenOffice](https://www.openoffice.org/)
+* [Taskade](https://www.taskade.com/)
 
 ### Online Collaboration
 * [Calendly](https://calendly.com)
