@@ -32,7 +32,7 @@
     * [Publishing Platforms](#publishing-platforms)
     * [Remote Collaboration](#remote-collaboration)
     * [RSS Tools](#rss-tools)
-    * [Screen Recording](#screen-recording)
+    * [Screen Recording and Screenshots](#screen-recording-and-screenshots)
     * [Social Networking](#social-networking)
     * [Utilities](#utilities)
     * [Video Authoring/Editing](#video-authoringediting)
@@ -380,7 +380,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Feedly](https://feedly.com)
 * [FlowReader](https://flowreader.com/)
 
-### Screen Recording
+### Screen Recording and Screenshots
 * [Camtasia](https://www.techsmith.com/download/camtasia/)
 * [Capto](https://www.globaldelight.com/capto/) (macOS only)
 * [Cleanshot X](https://cleanshot.com/) (macOS only)
