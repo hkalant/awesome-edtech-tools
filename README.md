@@ -431,7 +431,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Web Authoring
 * [Tilda](https://tilda.cc/)
-* [Weld](https://www.weld.io)
 
 ### Whiteboard Tools
 * [Excalidraw](https://excalidraw.com/)
