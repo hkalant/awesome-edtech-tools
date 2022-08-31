@@ -33,6 +33,7 @@
     * [Remote Collaboration](#remote-collaboration)
     * [RSS Tools](#rss-tools)
     * [Screen Recording and Screenshots](#screen-recording-and-screenshots)
+    * [Social Links](#social-links)
     * [Social Networking](#social-networking)
     * [Utilities](#utilities)
     * [Video Authoring/Editing](#video-authoringediting)
@@ -399,6 +400,11 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Soapbox](https://wistia.com/soapbox)
 * [Techsmith Capture](https://apps.apple.com/us/app/techsmith-capture/id1266321056) (iOS only)
 * [Xnapper](https://xnapper.com/) (macOS only)
+
+### Social Links
+* [Biolink](https://bio.link/)
+* [Linktree](https://linktr.ee/)
+* [Znaplink](https://www.znaplink.com/)
 
 ### Social Networking
 * [Buffer](https://bufferapp.com/)
