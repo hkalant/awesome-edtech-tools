@@ -236,6 +236,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Podia](https://www.podia.com)
 * [Teachable](https://teachable.com)
 * [Totara LMS](https://www.totaralearning.com/)
+* [EdisonOS](https://edisonos.com/)
 
 ### Massive Open Online Courses
 * [Acade.me](https://acade.me/)
