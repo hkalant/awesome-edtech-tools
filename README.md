@@ -191,6 +191,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Mono Icons](https://icons.mono.company/)
 * [Phosphor Icons](https://phosphoricons.com/)
 * [Remix Icon](https://remixicon.com/)
+* [Shape](https://shape.so)
 * [Simple Icons](https://simpleicons.org/)
 * [SystemUI icons](https://systemuicons.com)
 * [Tabler icons](https://tablericons.com)
