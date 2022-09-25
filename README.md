@@ -431,6 +431,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Video Hosting
 * [Panopto](https:/www.panopto.com)
+* [VidGrid](https://www.vidgrid.com/)
 * [Vimeo](https://vimeo.com/)
 * [Wistia](https://wistia.com/)
 * [YouTube](https://www.youtube.com/)
