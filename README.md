@@ -212,7 +212,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Withoomph](https://withoomph.com/)
 
 ### Image Editing
-* [Doka](https://doka.photo/)
+* [Edit Photo](https://edit.photo/) 
 * [Squoosh](https://squoosh.app)
 
 ### Infographics Tools
