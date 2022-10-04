@@ -214,6 +214,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Image Editing
 * [Edit Photo](https://edit.photo/) 
 * [Squoosh](https://squoosh.app)
+* [TinyKiwi](https://www.tinykiwi.co/)
 
 ### Infographics Tools
 * [Adioma](https://adioma.com)
