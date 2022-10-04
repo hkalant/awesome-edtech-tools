@@ -206,6 +206,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Klex](https://klex.io)
 * [Looka](https://looka.com)
 * [Pablo](https://buffer.com/pablo) *by Buffer*
+* [Pika](https://pika.style/)
 * [Pixlr](https://pixlr.com/)
 * [Recite This](http://www.recitethis.com/)
 * [Squarespace Logo](https://www.squarespace.com/logo/)
