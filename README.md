@@ -420,7 +420,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Tagboard](https://tagboard.com/)
 
 ### Utilities
-* [Pictaculous](https://www.pictaculous.com/)
 * [Place it](https://placeit.net/)
 * [Linkpack](https://linkpack.io)
 * [Quotes Cover](https://quotescover.com)
