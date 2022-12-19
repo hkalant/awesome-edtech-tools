@@ -311,6 +311,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [ISO Republic](https://isorepublic.com/)
 * [Jay Mantri](https://jaymantri.com/)
 * [JÉSHOOTS](https://jeshoots.com/)
+* [Kaboom Pics](https://kaboompics.com/)
 * [Life of Pix](https://www.lifeofpix.com/)
 * [Little Visuals](https://littlevisuals.co/)
 * [Magdeleine](https://magdeleine.co/browse/)
