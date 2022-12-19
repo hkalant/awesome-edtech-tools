@@ -193,6 +193,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Remix Icon](https://remixicon.com/)
 * [Shape](https://shape.so)
 * [Simple Icons](https://simpleicons.org/)
+* [Storyset](https://storyset.com/)
 * [SystemUI icons](https://systemuicons.com)
 * [Tabler icons](https://tablericons.com)
 * [Undraw](https://undraw.co/)
