@@ -194,6 +194,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Shape](https://shape.so)
 * [Simple Icons](https://simpleicons.org/)
 * [Storyset](https://storyset.com/)
+* [SVG Repo](https://www.svgrepo.com/)
 * [SystemUI icons](https://systemuicons.com)
 * [Tabler icons](https://tablericons.com)
 * [Undraw](https://undraw.co/)
