@@ -196,7 +196,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Storyset](https://storyset.com/)
 * [SVG Repo](https://www.svgrepo.com/)
 * [SystemUI icons](https://systemuicons.com)
-* [Tabler icons](https://tablericons.com)
 * [Undraw](https://undraw.co/)
 
 ### Image Creation
