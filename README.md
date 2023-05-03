@@ -190,6 +190,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Material Design icons](https://material.io/resources/icons/)
 * [Mono Icons](https://icons.mono.company/)
 * [Phosphor Icons](https://phosphoricons.com/)
+* [Potlab Icons](https://www.potlabicons.com/)
 * [Remix Icon](https://remixicon.com/)
 * [Shape](https://shape.so)
 * [Simple Icons](https://simpleicons.org/)
