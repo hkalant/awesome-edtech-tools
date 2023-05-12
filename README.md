@@ -441,6 +441,10 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Vimeo](https://vimeo.com/)
 * [Wistia](https://wistia.com/)
 * [YouTube](https://www.youtube.com/)
+* [Dacast](https://www.dacast.com/)
+* [JW Player](https://jwplayer.com/)
+* [Kaltura](https://corp.kaltura.com/)
+* [Bunny.net](https://bunny.net/)
 
 ### Web Annotation
 * [Genius](https://genius.com/web-annotator)
