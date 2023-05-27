@@ -150,8 +150,10 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Google Forms](https://www.google.com/google-d-s/createforms.html)
 * [Iterate](https://iteratehq.com/)
 * [LimeSurvey](https://www.limesurvey.org)
+* [Microsoft Forms](https://forms.office.com/)
 * [Qualtrics](https://www.qualtrics.com)
 * [SurveyMonkey](https://www.surveymonkey.com/)
+* [Tally](https://tally.so/)
 * [Typeform](https://www.typeform.com)
 * [Wufoo](https://www.wufoo.com/)
 
