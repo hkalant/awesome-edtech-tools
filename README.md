@@ -147,7 +147,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Socrative](https://www.socrative.com)
 
 ### Forms/Surveys
-* [Google Forms](https://www.google.com/google-d-s/createforms.html)
+* [Google Forms](https://docs.google.com/forms/)
 * [Iterate](https://iteratehq.com/)
 * [LimeSurvey](https://www.limesurvey.org)
 * [Microsoft Forms](https://forms.office.com/)
