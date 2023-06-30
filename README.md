@@ -408,6 +408,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [ScreenFlow](https://www.telestream.net/screenflow/overview.htm) (macOS only)
 * [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
 * [Screenpal](https://screenpal.com/)
+* [Shottr](https://shottr.cc/)
 * [Snagit](https://www.techsmith.com/screen-capture.html)
 * [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 * [Soapbox](https://wistia.com/soapbox)
