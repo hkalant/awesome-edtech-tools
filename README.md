@@ -172,6 +172,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Icons
 * [Black Illustrations](https://www.blackillustrations.com)
+* [Blendicons](https://blendicons.com/)
 * [Blush Illustrations](https://blush.design/)
 * [Bootstrap icons](https://icons.getbootstrap.com)
 * [Boxicons](https://boxicons.com)
@@ -181,6 +182,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Heroicons](https://heroicons.dev)
 * [Humaaans](https://www.humaaans.com/)
 * [IconBrew](https://iconbrew.com/)
+* [IconBuddy](https://iconbuddy.app/)
 * [Iconduck](https://iconduck.com/)
 * [Iconic](https://iconic.app)
 * [Iconoir](https://iconoir.com/)
