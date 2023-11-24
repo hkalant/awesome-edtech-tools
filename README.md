@@ -449,6 +449,9 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Wistia](https://wistia.com/)
 * [YouTube](https://www.youtube.com/)
 
+### Video Learning
+* [Quizium](https://quizium.ai)
+
 ### Web Annotation
 * [Genius](https://genius.com/web-annotator)
 * [Hypothesis](https://hypothes.is)
