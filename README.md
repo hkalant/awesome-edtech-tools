@@ -9,6 +9,7 @@
     * [Community Tools](#community-tools)
     * [Content Creation](#content-creation)
     * [Content Curation](#content-curation)
+    * [Device mockups](#device-mockups)
     * [Digital Portfolios](#digital-portfolios)
     * [Digital Storytelling](#digital-storytelling)
     * [Educational Networks](#educational-networks)
@@ -112,6 +113,11 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Pinterest](https://www.pinterest.com/)
 * [Scoop.it](https://www.scoop.it/)
 * [TED Education](https://ed.ted.com)
+
+### Device mockups
+* [Bezel](https://getbezel.app/)
+* [Pika](https://pika.style/)
+* [Shots.so](https://shots.so/)
 
 ### Digital Portfolios
 * [Chalk and Wire](https://www.chalkandwire.com)
