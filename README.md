@@ -419,6 +419,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
 * [Screenpal](https://screenpal.com/)
 * [Shottr](https://shottr.cc/)
+* [Shots](https://shots.so/)
 * [Snagit](https://www.techsmith.com/screen-capture.html)
 * [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 * [Soapbox](https://wistia.com/soapbox)
