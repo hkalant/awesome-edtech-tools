@@ -423,6 +423,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 * [Soapbox](https://wistia.com/soapbox)
 * [Techsmith Capture](https://apps.apple.com/us/app/techsmith-capture/id1266321056) (iOS only)
+* [Vento](https://vento.so/)
 * [Xnapper](https://xnapper.com/) (macOS only)
 
 ### Social Links
