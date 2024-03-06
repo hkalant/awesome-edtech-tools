@@ -221,7 +221,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Klex](https://klex.io)
 * [Looka](https://looka.com)
 * [Pablo](https://buffer.com/pablo) *by Buffer*
-* [Pika](https://pika.style/)
 * [Pixlr](https://pixlr.com/)
 * [Recite This](http://www.recitethis.com/)
 * [Squarespace Logo](https://www.squarespace.com/logo/)
@@ -414,6 +413,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [macOS built-in screen recorder](https://support.apple.com/en-gb/HT208721#mojave)
 * [Microsoft PowerPoint 365](https://support.office.com/en-gb/article/record-your-screen-in-powerpoint-0b4c3f65-534c-4cf1-9c59-402b6e9d79d0)
 * [Open Broadcast Software (OBS)](https://obsproject.com)
+* [Pika](https://pika.style/)
 * [Screencastify](https://www.screencastify.com)
 * [ScreenFlow](https://www.telestream.net/screenflow/overview.htm) (macOS only)
 * [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
