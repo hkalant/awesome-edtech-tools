@@ -118,6 +118,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Bezel](https://getbezel.app/)
 * [Pika](https://pika.style/)
 * [Shots.so](https://shots.so/)
+* [Vibrant Snap](https://www.vibrantsnap.com/)
 
 ### Digital Portfolios
 * [Chalk and Wire](https://www.chalkandwire.com)
