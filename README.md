@@ -284,6 +284,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Quip](https://quip.com/)
 * [Simplenote](https://simplenote.com/)
 * [Workflowy](https://workflowy.com/)
+* [NotePlan](https://noteplan.co)
 
 ### Office Tools
 * [Google Docs](https://docs.google.com/)
