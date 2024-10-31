@@ -405,6 +405,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Screen Recording and Screenshots
 * [Camtasia](https://www.techsmith.com/download/camtasia/)
+* [Cap.so](https://cap.so/)
 * [Capto](https://www.globaldelight.com/capto/) (macOS only)
 * [Cleanshot X](https://cleanshot.com/) (macOS only)
 * [Gyazo](https://gyazo.com)
