@@ -9,6 +9,7 @@
     * [Community Tools](#community-tools)
     * [Content Creation](#content-creation)
     * [Content Curation](#content-curation)
+    * [Demo creation](#demo-creation)
     * [Device mockups](#device-mockups)
     * [Digital Portfolios](#digital-portfolios)
     * [Digital Storytelling](#digital-storytelling)
