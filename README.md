@@ -115,6 +115,10 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Scoop.it](https://www.scoop.it/)
 * [TED Education](https://ed.ted.com)
 
+### Demo creation
+* [Scribehow](https://scribehow.com)
+* [Storylane](https://www.storylane.io)
+
 ### Device mockups
 * [Bezel](https://getbezel.app/)
 * [Pika](https://pika.style/)
