@@ -432,6 +432,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Techsmith Capture](https://apps.apple.com/us/app/techsmith-capture/id1266321056) (iOS only)
 * [Vento](https://vento.so/)
 * [Xnapper](https://xnapper.com/) (macOS only)
+* [CharmShotAI](https://charmshotai.com/) (Free Web App)
 
 ### Social Links
 * [Biolink](https://bio.link/)
