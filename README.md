@@ -151,6 +151,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [eXe](https://exelearning.net)
 * [H5P](https://h5p.org)
 * [Lectora](https://trivantis.com/products/inspire-e-learning-software/)
+* [Parta](https://parta.io)
 * [Xerte](https://xerte.org.uk/)
 
 ### Electronic Voting
