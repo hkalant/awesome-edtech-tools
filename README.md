@@ -108,6 +108,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Content Creation
 * [Adobe Spark](https://spark.adobe.com/)
 * [Visage](https://visage.co/)
+* [Textbooks.AI](https://textbooks.ai/) - AI-powered study guides generator that transforms any content into personalized learning materials and practice questions.
 
 ### Content Curation
 * [Gibbon](https://gibbon.co/)
