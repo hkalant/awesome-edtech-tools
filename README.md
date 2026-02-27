@@ -489,6 +489,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [SlimWiki](https://slimwiki.com/)
 * [Tettra](https://tettra.com/)
 * [TiddlyWiki](https://tiddlywiki.com/)
+* [KeepRule](https://keeprule.com/) - A decision-making education platform with 1,300+ principles from 26 legendary investors and thinkers, organized into 95+ scenario-based walkthroughs for practicing rational decision-making.
 
 ## What to do next
 
