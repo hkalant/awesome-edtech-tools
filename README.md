@@ -44,6 +44,7 @@
     * [Web Authoring](#web-authoring)
     * [Whiteboard Tools](#whiteboard-tools)
     * [Wiki/Knowledge Tracking](#wikiknowledge-tracking)
+    * [Calculators & Computation Tools](#calculators--computation-tools)
   * [What's Next](#what-to-do-next)
   * [Licence](#licence)
 
@@ -489,6 +490,9 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [SlimWiki](https://slimwiki.com/)
 * [Tettra](https://tettra.com/)
 * [TiddlyWiki](https://tiddlywiki.com/)
+
+### Calculators & Computation Tools
+* [Calculator Education](https://calculatoreducation.com/) - Free calculators for GPA calculation, grade tracking, student loan estimation and education-related computations
 
 ## What to do next
 
