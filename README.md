@@ -37,6 +37,7 @@
     * [Screen Recording and Screenshots](#screen-recording-and-screenshots)
     * [Social Links](#social-links)
     * [Social Networking](#social-networking)
+    * [Study & Review Tools](#study--review-tools)
     * [Utilities](#utilities)
     * [Video Authoring/Editing](#video-authoringediting)
     * [Video Hosting](#video-hosting)
@@ -444,6 +445,9 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Hootsuite](https://hootsuite.com/)
 * [Meetup](https://www.meetup.com/)
 * [Tagboard](https://tagboard.com/)
+
+### Study & Review Tools
+* [Revu](https://revu.cards)
 
 ### Utilities
 * [Place it](https://placeit.net/)
