@@ -37,6 +37,7 @@
     * [Screen Recording and Screenshots](#screen-recording-and-screenshots)
     * [Social Links](#social-links)
     * [Social Networking](#social-networking)
+    * [AI Lesson Planning & Content Generation](#ai-lesson-planning--content-generation)
     * [Utilities](#utilities)
     * [Video Authoring/Editing](#video-authoringediting)
     * [Video Hosting](#video-hosting)
@@ -444,6 +445,12 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Hootsuite](https://hootsuite.com/)
 * [Meetup](https://www.meetup.com/)
 * [Tagboard](https://tagboard.com/)
+
+### AI Lesson Planning & Content Generation
+* [Claw-ED](https://github.com/SirhanMacx/Claw-ED) - Open-source AI teaching assistant that learns your curriculum files, generates complete lesson packages (DOCX, PPTX) in your own voice, and supports fine-tuning on your feedback. Local-first, no subscription. `pip install clawed`
+* [MagicSchool AI](https://www.magicschool.ai) - AI tools for lesson planning, differentiation, and communication.
+* [Eduaide.Ai](https://www.eduaide.ai) - AI content generator for lesson plans, assessments, and classroom materials.
+* [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open-source multi-agent interactive classroom. Converts topics into live AI-driven classrooms with slides, quizzes, simulations, and whiteboard.
 
 ### Utilities
 * [Place it](https://placeit.net/)
