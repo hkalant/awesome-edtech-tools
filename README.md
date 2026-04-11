@@ -65,6 +65,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Randoma11y](https://randoma11y.com/)
 * [Userway](https://userway.org)
 * [WAVE](http://wave.webaim.org)
+* [Yazzooo](https://yazzooo.com) — Real-time emotional AI + gamified CBT for children with ADHD and autism
 * [Who can use](https://whocanuse.com)
 
 ### Chart Tools
