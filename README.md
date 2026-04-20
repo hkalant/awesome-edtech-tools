@@ -114,6 +114,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Pinterest](https://www.pinterest.com/)
 * [Scoop.it](https://www.scoop.it/)
 * [TED Education](https://ed.ted.com)
+* [BeddyColor](https://beddycolor.com)
 
 ### Demo creation
 * [Scribehow](https://scribehow.com)
