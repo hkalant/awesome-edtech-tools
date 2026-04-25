@@ -90,6 +90,8 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Yandex.Disk](https://disk.yandex.com/)
 
 ### Coding/Programming Schools
+* [ACLAS Neuro-Edu SDK](https://github.com/aclascollege/neuro-edu) - Autonomous cognitive simulation framework for AI-powered education, modeling human knowledge acquisition with neural kernels and thermodynamic entropy analysis.
+
 * [Bitfountain](https://bitfountain.io/)
 * [Code.org](https://code.org/)
 * [Codecademy](https://www.codecademy.com/)
