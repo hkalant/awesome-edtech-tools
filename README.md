@@ -250,6 +250,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Absorb](https://www.absorblms.com/)
 * [Blackboard](https://www.blackboard.com/)
 * [Canvas LMS](https://www.instructure.com/canvas)
+* [Cubite](https://cubite.io) (AI-powered multi-tenant LMS with Open edX and Moodle integration)
 * [CourseSites](https://www.coursesites.com) (Based on Blackboard)
 * [Edmodo](https://www.edmodo.com)
 * [eFront](https://efrontlearning.net/)
