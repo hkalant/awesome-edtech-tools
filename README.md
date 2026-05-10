@@ -503,3 +503,7 @@ Available under the [CC0 licence](http://creativecommons.org/publicdomain/zero/1
 ## More Awesomeness 
 * [Awesome](https://github.com/sindresorhus/awesome) — A curated list of awesome lists
 * [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) — A collection of links for free stock photography, video and Illustration websites
+## College Cost & Planning
+
+- [Degreecalc](https://degreecalc.com/) - Free college cost and ROI calculators using federal IPEDS data, College Scorecard outcomes, and BLS Occupational Outlook. Includes GPA calculator, FAFSA estimator, major × city earnings projections.
+
