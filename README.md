@@ -11,6 +11,7 @@
     * [Content Curation](#content-curation)
     * [Demo creation](#demo-creation)
     * [Device mockups](#device-mockups)
+    * [Digital Credentials](#digital-credentials)
     * [Digital Portfolios](#digital-portfolios)
     * [Digital Storytelling](#digital-storytelling)
     * [Educational Networks](#educational-networks)
@@ -125,6 +126,11 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Shots.so](https://shots.so/)
 * [Vibrant Snap](https://www.vibrantsnap.com/)
 
+## Digital Credentials
+- [Badges Ninja](https://badges.ninja/)
+- [Credly](https://credly.com/) 
+- [Open Badge Factory](https://openbadgefactory.com/)
+  
 ### Digital Portfolios
 * [Chalk and Wire](https://www.chalkandwire.com)
 * [Digication](https://www.digication.com/)
