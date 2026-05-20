@@ -137,6 +137,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Digital Storytelling
 * [Sway](https://sway.office.com)
+* [Wondika](https://wondika.com) - AI-generated interactive math story adventures for kids ages 6–11 (K–5), with English and Vietnamese narration; iOS, Android, web.
 
 ### Educational Networks
 * [Discovery Education](https://www.discoveryeducation.com/)
