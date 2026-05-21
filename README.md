@@ -449,6 +449,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Place it](https://placeit.net/)
 * [Linkpack](https://linkpack.io)
 * [Quotes Cover](https://quotescover.com)
+* [Printable Graph Paper](https://printablegraphpaper.org/)
 
 ### Video Authoring/Editing
 * [Magisto](https://www.magisto.com/)
