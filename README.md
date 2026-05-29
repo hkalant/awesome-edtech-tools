@@ -165,6 +165,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [LimeSurvey](https://www.limesurvey.org)
 * [Microsoft Forms](https://forms.office.com/)
 * [Qualtrics](https://www.qualtrics.com)
+* [QuizVerse](https://quizverse.world)
 * [SurveyMonkey](https://www.surveymonkey.com/)
 * [Tally](https://tally.so/)
 * [Typeform](https://www.typeform.com)
