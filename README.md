@@ -260,6 +260,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Podia](https://www.podia.com)
 * [Teachable](https://teachable.com)
 * [Totara LMS](https://www.totaralearning.com/)
+* [Equip](https://github.com/ArVaViT/equip) - Free, open-source LMS for Bible schools and nonprofits (React + FastAPI + Supabase)
 
 ### Massive Open Online Courses
 * [Acade.me](https://acade.me/)
