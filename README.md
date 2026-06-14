@@ -110,6 +110,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Visage](https://visage.co/)
 
 ### Content Curation
+* [Albis](https://www.albis.news/?utm_source=github&utm_medium=public_catalog&utm_campaign=awesome_edtech_tools_hkalant) - Free AI-assisted news discovery and media-literacy exercise for comparing coverage gaps, framing differences, and missed public stories.
 * [Gibbon](https://gibbon.co/)
 * [Pinterest](https://www.pinterest.com/)
 * [Scoop.it](https://www.scoop.it/)
