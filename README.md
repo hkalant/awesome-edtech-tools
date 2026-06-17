@@ -388,6 +388,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [DeckDeckGo](https://deckdeckgo.com/)
 * [Google Slides](https://slides.google.com)
 * [Prezi](http://prezi.com/)
+* [Quizotic](https://www.quizotic.live) - India-first live quiz & interactive presentation platform with AI quiz generation, Bloom's Taxonomy, real-time leaderboards. Free tier, INR billing with UPI.
 * [Slide Presenter](https://slidepresenter.com/en/)
 * [Slideshare](https://www.slideshare.net/)
 * [Speaker Deck](https://speakerdeck.com/)
