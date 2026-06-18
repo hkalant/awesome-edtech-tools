@@ -158,6 +158,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Mentimeter](https://www.mentimeter.com/)
 * [Poll Everywhere](https://www.polleverywhere.com)
 * [Socrative](https://www.socrative.com)
+* [QuiQui](https://github.com/th-nuernberg/quiqui) - Live audience response tool for lectures; students answer via QR code, the class sees live results. Questions are authored as YAML in a GitHub repo and support Markdown and LaTeX math. Self-hosted, open source.
 
 ### Forms/Surveys
 * [Google Forms](https://docs.google.com/forms/)
