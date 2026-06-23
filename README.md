@@ -137,6 +137,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Digital Storytelling
 * [Sway](https://sway.office.com)
+* [Legendary Life Simulators](https://ordinarymantrying.com/tools/) - 10 free interactive decision-games based on real historical figures (Mandela, Curie, Jobs, Musk, Buffett, and others). Students face the real pivotal decisions blind, then see what the person actually chose. Free, no login, browser-based.
 
 ### Educational Networks
 * [Discovery Education](https://www.discoveryeducation.com/)
