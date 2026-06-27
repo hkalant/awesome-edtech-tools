@@ -290,6 +290,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Quip](https://quip.com/)
 * [Simplenote](https://simplenote.com/)
 * [Workflowy](https://workflowy.com/)
+* [NoteRich](https://noterich.com) - AI-powered notes with built-in RAG search. 41 languages, document import, free tier.
 
 ### Office Tools
 * [Google Docs](https://docs.google.com/)
