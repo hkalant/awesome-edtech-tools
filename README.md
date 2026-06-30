@@ -449,6 +449,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Place it](https://placeit.net/)
 * [Linkpack](https://linkpack.io)
 * [Quotes Cover](https://quotescover.com)
+* [randomletter.io](https://randomletter.io) — Free random letter generator for classroom activities, ESL teaching, and word games.
 
 ### Video Authoring/Editing
 * [Magisto](https://www.magisto.com/)
