@@ -449,6 +449,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Place it](https://placeit.net/)
 * [Linkpack](https://linkpack.io)
 * [Quotes Cover](https://quotescover.com)
+* [CountLink](https://countlink.app) - Free, no-signup shared countdown timer for classrooms and exams. Set a duration, copy the link, and every device that opens it counts down to the exact same instant (no server, no account) — handy for keeping a whole class or exam room in sync on remaining time.
 
 ### Video Authoring/Editing
 * [Magisto](https://www.magisto.com/)
