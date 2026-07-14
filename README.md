@@ -449,6 +449,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Place it](https://placeit.net/)
 * [Linkpack](https://linkpack.io)
 * [Quotes Cover](https://quotescover.com)
+* [GroupMixer](https://groupmixer.app) — Free browser-based group generator for random, balanced, constrained, and low-repeat multi-round classroom groups; no account required.
 
 ### Video Authoring/Editing
 * [Magisto](https://www.magisto.com/)
