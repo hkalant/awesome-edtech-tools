@@ -292,7 +292,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Workflowy](https://workflowy.com/)
 
 ### Office Tools
-* [CiteMe](https://citeme.app/) - AI-powered citation generator for students and researchers. Searches 8+ academic databases and formats references in 40+ styles (APA, MLA, Chicago, ABNT). Includes browser extensions, Word add-in, and Google Docs add-on.
+* [CiteMe](https://citeme.app/) - Citation generator for students and researchers. Searches 10+ academic databases and formats references in 60 curated styles (APA, MLA, Chicago, ABNT). Includes a reference checker and a Chrome extension.
 * [Google Docs](https://docs.google.com/)
 * [Google Sheets](https://sheets.google.com/)
 * [LibreOffice](https://www.libreoffice.org/)
