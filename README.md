@@ -153,6 +153,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Lectora](https://trivantis.com/products/inspire-e-learning-software/)
 * [Parta](https://parta.io)
 * [Xerte](https://xerte.org.uk/)
+* [Ti App & Books](https://thuisitaliaans.com/app-ti) 
 
 ### Electronic Voting
 * [Mentimeter](https://www.mentimeter.com/)
