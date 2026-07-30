@@ -158,6 +158,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Mentimeter](https://www.mentimeter.com/)
 * [Poll Everywhere](https://www.polleverywhere.com)
 * [Socrative](https://www.socrative.com)
+* [PickerSpin](https://www.pickerspin.co)
 
 ### Forms/Surveys
 * [Google Forms](https://docs.google.com/forms/)
