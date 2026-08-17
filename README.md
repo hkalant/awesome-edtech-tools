@@ -444,6 +444,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Hootsuite](https://hootsuite.com/)
 * [Meetup](https://www.meetup.com/)
 * [Tagboard](https://tagboard.com/)
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ### Utilities
 * [Place it](https://placeit.net/)
@@ -481,7 +482,6 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Wiki/Knowledge Tracking
 * [Coda](https://coda.io/)
-* [Notion](https://www.notion.so/?r=cd76e1046abe459b8d15aa7f0dbae3f5)
 * [Obsidian](https://obsidian.md/)
 * [PBWorks](https://www.pbworks.com/education.html)
 * [RemNote](https://www.remnote.io/homepage)
