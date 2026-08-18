@@ -503,3 +503,4 @@ Available under the [CC0 licence](http://creativecommons.org/publicdomain/zero/1
 ## More Awesomeness 
 * [Awesome](https://github.com/sindresorhus/awesome) — A curated list of awesome lists
 * [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) — A collection of links for free stock photography, video and Illustration websites
+* [Awesome Study Tools](https://github.com/studyarena-com/awesome-study-tools#readme) — A curated directory of 176 study and learning tools by category and region
