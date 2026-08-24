@@ -449,6 +449,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Place it](https://placeit.net/)
 * [Linkpack](https://linkpack.io)
 * [Quotes Cover](https://quotescover.com)
+* [Random Animal Picker](https://randomanimalpicker.com/) - Explore real animals through photos, facts, and source links.
 
 ### Video Authoring/Editing
 * [Magisto](https://www.magisto.com/)
