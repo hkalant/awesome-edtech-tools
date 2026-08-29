@@ -391,6 +391,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Slide Presenter](https://slidepresenter.com/en/)
 * [Slideshare](https://www.slideshare.net/)
 * [Speaker Deck](https://speakerdeck.com/)
+* [Video2Any](https://video2any.com/)
 * [WebSlides](https://webslides.tv)
 
 ### Publishing Platforms
