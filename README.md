@@ -149,6 +149,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Articulate 360](https://articulate.com/360)
 * [Evolve Authoring](https://www.evolveauthoring.com/)
 * [eXe](https://exelearning.net)
+* [GroutApp](https://grout.app/) - AI learning studio that runs its models on the teacher's or student's own computer: lesson plans, worksheets, slides and exams from your own textbooks (Windows, macOS)
 * [H5P](https://h5p.org)
 * [Lectora](https://trivantis.com/products/inspire-e-learning-software/)
 * [Parta](https://parta.io)
@@ -451,6 +452,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Quotes Cover](https://quotescover.com)
 
 ### Video Authoring/Editing
+* [GroutFilm](https://grout.app/groutfilm/) - AI video and audio editor for classrooms with a local multi-track timeline (Windows, macOS)
 * [Magisto](https://www.magisto.com/)
 * [Shakr](https://www.shakr.com)
 * [VideoScribe](https://www.videoscribe.co)
