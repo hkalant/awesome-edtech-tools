@@ -449,6 +449,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Place it](https://placeit.net/)
 * [Linkpack](https://linkpack.io)
 * [Quotes Cover](https://quotescover.com)
+* [Utilia Profe](https://utilia-gratis.adriano-aimar12.workers.dev/profe) — Free classroom utilities in Spanish: grade calculators, attendance, group formation, and lesson planning.
 
 ### Video Authoring/Editing
 * [Magisto](https://www.magisto.com/)
