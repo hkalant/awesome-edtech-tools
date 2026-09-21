@@ -140,6 +140,8 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Educational Networks
 * [Discovery Education](https://www.discoveryeducation.com/)
+* [EducatorPathways Teacher Preparation Programs (Title II)](https://educatorpathways.com/teacher-preparation-programs/national)
+* [EducatorPathways Teacher Shortage Tracker](https://educatorpathways.com/teacher-shortage-tracker)
 * [Scholastic](https://emea.scholastic.com/en)
 
 ### E-learning Authoring Tools
