@@ -449,6 +449,8 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Place it](https://placeit.net/)
 * [Linkpack](https://linkpack.io)
 * [Quotes Cover](https://quotescover.com)
+* [MONA Timetable Generator](https://mona.media/tao-thoi-khoa-bieu-online/) - Free in-browser school timetable generator; data stays on the device, exports CSV/PDF ([open-source engine](https://github.com/themonagroup/mona-thoi-khoa-bieu), Vietnamese UI)
+* [MONA Quiz Shuffler](https://mona.media/tron-de-thi-trac-nghiem-online/) - Free tool to create shuffled multiple-choice exam versions with answer keys and a timed practice test ([open-source library](https://github.com/themonagroup/mona-tron-de), Vietnamese UI)
 
 ### Video Authoring/Editing
 * [Magisto](https://www.magisto.com/)
