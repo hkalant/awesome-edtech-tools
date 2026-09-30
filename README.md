@@ -449,6 +449,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Place it](https://placeit.net/)
 * [Linkpack](https://linkpack.io)
 * [Quotes Cover](https://quotescover.com)
+* [OffLadder](https://offladder.com) - Free career exploration tool that suggests career directions and small real-world experiments to test them. Ages 13+.
 
 ### Video Authoring/Editing
 * [Magisto](https://www.magisto.com/)
