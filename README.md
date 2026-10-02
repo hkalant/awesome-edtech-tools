@@ -294,6 +294,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Office Tools
 * [Google Docs](https://docs.google.com/)
 * [Google Sheets](https://sheets.google.com/)
+* [ExcelTool](https://exceltool.io/) - Free online Excel tools to convert, view, edit, and repair spreadsheets (browser-based; no signup)
 * [LibreOffice](https://www.libreoffice.org/)
 * [Microsoft Office](https://office.microsoft.com/)
 * [Microsoft Office Web Apps](https://office.com/)
