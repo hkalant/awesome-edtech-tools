@@ -155,6 +155,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Xerte](https://xerte.org.uk/)
 
 ### Electronic Voting
+* [LivePoll](https://freelivepoll.com/)
 * [Mentimeter](https://www.mentimeter.com/)
 * [Poll Everywhere](https://www.polleverywhere.com)
 * [Socrative](https://www.socrative.com)
