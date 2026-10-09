@@ -278,6 +278,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Udemy](https://www.udemy.com/)
 * [edX](https://www.edx.org/)
 * [WizIQ](https://www.wiziq.com/)
+* [WordHub](https://wordhub.top) (English vocabulary learning platform with etymology-based explanations, spaced repetition, and in-context reading; web, browser extension, iOS and macOS apps)
 
 ### Notes
 * [Bear](https://bear.app/)
