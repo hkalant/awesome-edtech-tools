@@ -153,6 +153,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Lectora](https://trivantis.com/products/inspire-e-learning-software/)
 * [Parta](https://parta.io)
 * [Xerte](https://xerte.org.uk/)
+* [WorkshopSkill](https://workshopskill.com/en/) - Hand-filed workshop activity folders with printable run sheets, prop cards, and debrief guides (CC BY 4.0, also available as AI agent skills).
 
 ### Electronic Voting
 * [Mentimeter](https://www.mentimeter.com/)
