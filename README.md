@@ -107,6 +107,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Content Creation
 * [Adobe Spark](https://spark.adobe.com/)
+* [HumanPen](https://humanpen.net/) — AI writing humanizer for educators and writers
 * [Visage](https://visage.co/)
 
 ### Content Curation
