@@ -472,11 +472,13 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Tilda](https://tilda.cc/)
 
 ### Whiteboard Tools
+* [ClassHelper](https://classhelper.app/)
 * [Excalidraw](https://excalidraw.com/)
 * [Openboard](https://openboard.ch/)
 * [Realtime Board](https://realtimeboard.com)
 * [Sketchboard](https://sketchboard.io)
 * [Tableaunoir](https://tableaunoir.github.io)
+* [Tafelfuchs](https://tafelfuchs.de/)
 * [Witeboard](https://witeboard.com/)
 
 ### Wiki/Knowledge Tracking
