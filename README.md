@@ -40,6 +40,7 @@
     * [Utilities](#utilities)
     * [Video Authoring/Editing](#video-authoringediting)
     * [Video Hosting](#video-hosting)
+    * [Virtual Labs](#virtual-labs)
     * [Web Annotation](#web-annotation)
     * [Web Authoring](#web-authoring)
     * [Whiteboard Tools](#whiteboard-tools)
@@ -463,6 +464,9 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Vimeo](https://vimeo.com/)
 * [Wistia](https://wistia.com/)
 * [YouTube](https://www.youtube.com/)
+
+### Virtual Labs
+* [Scivra](https://scivra.com/) (3D high school science labs; 3 free without an account, paid subscription for full access)
 
 ### Web Annotation
 * [Genius](https://genius.com/web-annotator)
