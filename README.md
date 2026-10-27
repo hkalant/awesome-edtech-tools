@@ -449,6 +449,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Place it](https://placeit.net/)
 * [Linkpack](https://linkpack.io)
 * [Quotes Cover](https://quotescover.com)
+* [桃李AI](https://taoliapp.com/) — AI end-of-term comment generator for Chinese K-12 teachers (Excel import + multi-tag personalization).
 
 ### Video Authoring/Editing
 * [Magisto](https://www.magisto.com/)
