@@ -153,6 +153,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Lectora](https://trivantis.com/products/inspire-e-learning-software/)
 * [Parta](https://parta.io)
 * [Xerte](https://xerte.org.uk/)
+* [QuizQuip](https://quizquip.com) - Free syllabus-aligned science revision hub for Singapore lower-secondary students: chapter notes, key terms, quizzes, topical questions and original practice papers by exam stage.
 
 ### Electronic Voting
 * [Mentimeter](https://www.mentimeter.com/)
