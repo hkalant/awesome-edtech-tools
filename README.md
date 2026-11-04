@@ -260,6 +260,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Podia](https://www.podia.com)
 * [Teachable](https://teachable.com)
 * [Totara LMS](https://www.totaralearning.com/)
+* [QuizQuip](https://quizquip.com) - Free syllabus-aligned science revision hub for Singapore lower-secondary students: chapter notes, key terms, quizzes, topical questions and original practice papers by exam stage.
 
 ### Massive Open Online Courses
 * [Acade.me](https://acade.me/)
