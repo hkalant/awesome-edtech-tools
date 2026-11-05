@@ -62,6 +62,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Color Review](https://color.review/)
 * [Contrast](https://usecontrast.com)
 * [High Contrast](https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph?hl=en) *(Chrome Extension)*
+* [Large Print Maker](https://largeprintmaker.com/) - Free tool that turns any pasted text into printable large-print PDFs at 18–28 pt (APH large-print guidelines); runs in the browser, no account, no ads. Useful for printing handouts and worksheets for low-vision students.
 * [Randoma11y](https://randoma11y.com/)
 * [Userway](https://userway.org)
 * [WAVE](http://wave.webaim.org)
