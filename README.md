@@ -451,6 +451,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Quotes Cover](https://quotescover.com)
 
 ### Video Authoring/Editing
+* [ContentRoof](https://contentroof.com/)
 * [Magisto](https://www.magisto.com/)
 * [Shakr](https://www.shakr.com)
 * [VideoScribe](https://www.videoscribe.co)
