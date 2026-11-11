@@ -473,6 +473,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Whiteboard Tools
 * [Excalidraw](https://excalidraw.com/)
+* [Novastart](https://novastart.com/)
 * [Openboard](https://openboard.ch/)
 * [Realtime Board](https://realtimeboard.com)
 * [Sketchboard](https://sketchboard.io)
