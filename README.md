@@ -107,6 +107,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Content Creation
 * [Adobe Spark](https://spark.adobe.com/)
+* [Lessicon](https://lessicon.com/teachers?src=teacher&c=awesome-edtech) - Turns your own lesson notes, a photo of slides or a topic into a study website (explanations, quiz, concept map, practice cards) with one class link.
 * [Visage](https://visage.co/)
 
 ### Content Curation
