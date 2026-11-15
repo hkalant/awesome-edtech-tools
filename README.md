@@ -77,7 +77,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle)
 
 ### Classroom random selectors
-* [SpinWheelNames](https://spinnwheelnames.com/wheel-of-names) - Free, ad-supported browser wheel for picking student names at random, forming groups and setting turn order; available in English, Spanish, French, German and Portuguese.
+* [SpinWheelNames](https://spinwheelnames.com/wheel-of-names) - Free, ad-supported browser wheel for picking student names at random, forming groups and setting turn order; available in English, Spanish, French, German and Portuguese.
 
 ### Cloud Storage
 * [Amazon Cloud Drive](https://www.amazon.com/clouddrive/)
