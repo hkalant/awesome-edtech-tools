@@ -432,6 +432,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Soapbox](https://wistia.com/soapbox)
 * [Techsmith Capture](https://apps.apple.com/us/app/techsmith-capture/id1266321056) (iOS only)
 * [Vento](https://vento.so/)
+* [Vertov](https://vertov.app/)
 * [Xnapper](https://xnapper.com/) (macOS only)
 
 ### Social Links
