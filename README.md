@@ -453,6 +453,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ### Video Authoring/Editing
 * [Magisto](https://www.magisto.com/)
 * [Shakr](https://www.shakr.com)
+* [Valmera](https://valmera.io/use-cases/course-creators) - Browser-based editor for recorded lessons, with examples for retaining teaching steps, correcting captions, and restoring a missing action.
 * [VideoScribe](https://www.videoscribe.co)
 * [WeVideo](https://www.wevideo.com)
 * [Zaption](https://www.zaption.com/)
