@@ -147,6 +147,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Adobe Captivate](https://www.adobe.com/uk/products/captivate.html)
 * [Adobe Presenter](https://www.adobe.com/products/presenter.html)
 * [Articulate 360](https://articulate.com/360)
+* [AshuTeacher](https://ashuteacher.vercel.app) - AI Voice Blackboard, 195-country cascading syllabus academy, PDF/photo exam solver, Project/Thesis & Research Studio with live AI Viva Defense, and 3D flashcards in 100+ languages (PWA + Android).
 * [Evolve Authoring](https://www.evolveauthoring.com/)
 * [eXe](https://exelearning.net)
 * [H5P](https://h5p.org)
